@@ -1,0 +1,3119 @@
+,transcription,action,object,location
+0,Turn on the lights,activate,lights,none
+1,Turn off the lights,deactivate,lights,none
+2,Change language,change language,none,none
+3,Pause the music,deactivate,music,none
+4,Resume,activate,music,none
+5,Volume down,decrease,volume,none
+6,Turn the lights on,activate,lights,none
+7,Switch on the lights,activate,lights,none
+8,Lights on,activate,lights,none
+9,Switch off the lights,deactivate,lights,none
+10,Turn the lights off,deactivate,lights,none
+11,Lights off,deactivate,lights,none
+12,Volume up,increase,volume,none
+13,Turn up the volume,increase,volume,none
+14,Turn the volume up,increase,volume,none
+15,Make the music louder,increase,volume,none
+16,Turn down the volume,decrease,volume,none
+17,Turn the volume down,decrease,volume,none
+18,Make the music softer,decrease,volume,none
+19,Turn up the temperature,increase,heat,none
+20,Turn the temperature up,increase,heat,none
+21,Turn up the heat,increase,heat,none
+22,Turn the heat up,increase,heat,none
+23,Turn down the temperature,decrease,heat,none
+24,Turn the temperature down,decrease,heat,none
+25,Turn down the heat,decrease,heat,none
+26,Turn the heat down,decrease,heat,none
+27,Turn off the music,deactivate,music,none
+28,Stop the music,deactivate,music,none
+29,Play,activate,music,none
+30,Put on the music,activate,music,none
+31,Play the music,activate,music,none
+32,Start the music,activate,music,none
+33,Turn on the lamp,activate,lamp,none
+34,Switch on the lamp,activate,lamp,none
+35,Turn the lamp on,activate,lamp,none
+36,Lamp on,activate,lamp,none
+37,Turn off the lamp,deactivate,lamp,none
+38,Turn the lamp off,deactivate,lamp,none
+39,Switch off the lamp,deactivate,lamp,none
+40,Lamp off,deactivate,lamp,none
+41,Switch the lights on,activate,lights,none
+42,Turn on the kitchen lights,activate,lights,kitchen
+43,Switch on the kitchen lights,activate,lights,kitchen
+44,Turn the lights on in the kitchen,activate,lights,kitchen
+45,Switch on the lights in the kitchen,activate,lights,kitchen
+46,Lights on in the kitchen,activate,lights,kitchen
+47,Kitchen lights on,activate,lights,kitchen
+48,Switch the kitchen lights on,activate,lights,kitchen
+49,Turn the kitchen lights on,activate,lights,kitchen
+50,Turn on the lights in the bedroom,activate,lights,bedroom
+51,Turn the bedroom lights on,activate,lights,bedroom
+52,Switch on the lights in the bedroom,activate,lights,bedroom
+53,Switch the bedroom lights on,activate,lights,bedroom
+54,Lights on in the bedroom,activate,lights,bedroom
+55,Bedroom lights on,activate,lights,bedroom
+56,Turn on the washroom lights,activate,lights,washroom
+57,Turn the washroom lights on,activate,lights,washroom
+58,Switch on the washroom lights,activate,lights,washroom
+59,Lights on in the washroom,activate,lights,washroom
+60,Washroom lights on,activate,lights,washroom
+61,Turn on the bathroom lights,activate,lights,washroom
+62,Turn the bathroom lights on,activate,lights,washroom
+63,Switch on the bathroom lights,activate,lights,washroom
+64,Lights on in the bathroom,activate,lights,washroom
+65,Bathroom lights on,activate,lights,washroom
+66,Switch the lights off,deactivate,lights,none
+67,Turn off the kitchen lights,deactivate,lights,kitchen
+68,Turn the lights off in the kitchen,deactivate,lights,kitchen
+69,Switch off the lights in the kitchen,deactivate,lights,kitchen
+70,Switch the lights off in the kitchen,deactivate,lights,kitchen
+71,Lights off in the kitchen,deactivate,lights,kitchen
+72,Kitchen lights off,deactivate,lights,kitchen
+73,Turn off the lights in the bedroom,deactivate,lights,bedroom
+74,Turn the bedroom lights off,deactivate,lights,bedroom
+75,Switch off the lights in the bedroom,deactivate,lights,bedroom
+76,Switch the bedroom lights off,deactivate,lights,bedroom
+77,Lights off in the bedroom,deactivate,lights,bedroom
+78,Bedroom lights off,deactivate,lights,bedroom
+79,Turn off the washroom lights,deactivate,lights,washroom
+80,Switch off the washroom lights,deactivate,lights,washroom
+81,Washroom lights off,deactivate,lights,washroom
+82,Turn volume up,increase,volume,none
+83,Turn sound up,increase,volume,none
+84,Turn it up,increase,volume,none
+85,Make it louder,increase,volume,none
+86,Louder,increase,volume,none
+87,Volume max,increase,volume,none
+88,Louder please,increase,volume,none
+89,Increase the volume,increase,volume,none
+90,Increase the sound volume,increase,volume,none
+91,I need volume,increase,volume,none
+92,Increase the sound,increase,volume,none
+93,Louder phone,increase,volume,none
+94,I can't hear that,increase,volume,none
+95,Too quiet,increase,volume,none
+96,That's too quiet,increase,volume,none
+97,Far too quiet,increase,volume,none
+98,Turn the sound up,increase,volume,none
+99,"I need to hear this, increase the volume",increase,volume,none
+100,"I couldn't hear anything, turn up the volume",increase,volume,none
+101,"This video sound is too low, turn up the volume",increase,volume,none
+102,Decrease volume,decrease,volume,none
+103,Turn volume down,decrease,volume,none
+104,Turn sound down,decrease,volume,none
+105,Decrease audio volume,decrease,volume,none
+106,Reduce audio volume,decrease,volume,none
+107,Turn it down,decrease,volume,none
+108,Quieter,decrease,volume,none
+109,Volume mute,decrease,volume,none
+110,Lower the volume,decrease,volume,none
+111,Volume lower,decrease,volume,none
+112,Decrease the volume,decrease,volume,none
+113,Decrease sound levels,decrease,volume,none
+114,Too loud,decrease,volume,none
+115,That’s too loud,decrease,volume,none
+116,Far too loud,decrease,volume,none
+117,Make it quieter,decrease,volume,none
+118,"It’s too loud, turn it down",decrease,volume,none
+119,"It’s too loud, turn the volume down",decrease,volume,none
+120,Increase the temperature,increase,heat,none
+121,Increase the heating,increase,heat,none
+122,Could you increase the heating?,increase,heat,none
+123,Could you increase the heating please?,increase,heat,none
+124,Make it hotter,increase,heat,none
+125,More heat,increase,heat,none
+126,Heat up,increase,heat,none
+127,Turn up the temperature in the kitchen,increase,heat,kitchen
+128,Turn the kitchen temperature up,increase,heat,kitchen
+129,Increase the temperature in the kitchen,increase,heat,kitchen
+130,Increase the heating in the kitchen,increase,heat,kitchen
+131,Turn up the heat in the kitchen,increase,heat,kitchen
+132,Turn the heat up in the kitchen,increase,heat,kitchen
+133,Kitchen heat up,increase,heat,kitchen
+134,Turn up the temperature in the bedroom,increase,heat,bedroom
+135,Turn the temperature in the bedroom up,increase,heat,bedroom
+136,Turn up the bedroom heat,increase,heat,bedroom
+137,Turn the bedroom heat up,increase,heat,bedroom
+138,Bedroom heat up,increase,heat,bedroom
+139,Increase the temperature in the bedroom,increase,heat,bedroom
+140,Increase the heating in the bedroom,increase,heat,bedroom
+141,Turn up the washroom temperature,increase,heat,washroom
+142,Turn the temperature up in the washroom,increase,heat,washroom
+143,Turn up the heat in the washroom,increase,heat,washroom
+144,Turn the heat up in the washroom,increase,heat,washroom
+145,Washroom heat up,increase,heat,washroom
+146,Increase the temperature in the washroom,increase,heat,washroom
+147,Increase the heating in the washroom,increase,heat,washroom
+148,Turn up the bathroom temperature,increase,heat,washroom
+149,Turn the temperature up in the bathroom,increase,heat,washroom
+150,Turn up the heat in the bathroom,increase,heat,washroom
+151,Turn the heat up in the bathroom,increase,heat,washroom
+152,Bathroom heat up,increase,heat,washroom
+153,Increase the temperature in the bathroom,increase,heat,washroom
+154,Increase the heating in the bathroom,increase,heat,washroom
+155,Make it cooler,decrease,heat,none
+156,Less heat,decrease,heat,none
+157,Heat down,decrease,heat,none
+158,Decrease the temperature,decrease,heat,none
+159,Decrease the heating,decrease,heat,none
+160,Could you decrease the heating?,decrease,heat,none
+161,Could you decrease the heating please?,decrease,heat,none
+162,Turn down the temperature in the kitchen,decrease,heat,kitchen
+163,Turn the kitchen temperature down,decrease,heat,kitchen
+164,Turn down the heat in the kitchen,decrease,heat,kitchen
+165,Turn the heat down in the kitchen,decrease,heat,kitchen
+166,Kitchen heat down,decrease,heat,kitchen
+167,Decrease the temperature in the kitchen,decrease,heat,kitchen
+168,Decrease the heating in the kitchen,decrease,heat,kitchen
+169,Turn down the temperature in the bedroom,decrease,heat,bedroom
+170,Turn the temperature in the bedroom down,decrease,heat,bedroom
+171,Turn down the bedroom heat,decrease,heat,bedroom
+172,Turn the bedroom heat down,decrease,heat,bedroom
+173,Decrease the temperature in the bedroom,decrease,heat,bedroom
+174,Decrease the heating in the bedroom,decrease,heat,bedroom
+175,Turn down the washroom temperature,decrease,heat,washroom
+176,Turn the temperature down in the washroom,decrease,heat,washroom
+177,Turn down the heat in the washroom,decrease,heat,washroom
+178,Turn the heat down in the washroom,decrease,heat,washroom
+179,Decrease the temperature in the washroom,decrease,heat,washroom
+180,Decrease the heating in the washroom,decrease,heat,washroom
+181,Washroom heat down,decrease,heat,washroom
+182,Turn down the bathroom temperature,decrease,heat,washroom
+183,Turn the temperature down in the bathroom,decrease,heat,washroom
+184,Turn down the heat in the bathroom,decrease,heat,washroom
+185,Turn the heat down in the bathroom,decrease,heat,washroom
+186,Decrease the temperature in the bathroom,decrease,heat,washroom
+187,Decrease the heating in the bathroom,decrease,heat,washroom
+188,Bathroom heat down,decrease,heat,washroom
+189,Pause music,deactivate,music,none
+190,Stop music,deactivate,music,none
+191,Stop,deactivate,music,none
+192,Play music,activate,music,none
+193,Resume music,activate,music,none
+194,Bring me the newspaper,bring,newspaper,none
+195,Get me the newspaper,bring,newspaper,none
+196,Bring the newspaper,bring,newspaper,none
+197,Bring newspaper,bring,newspaper,none
+198,Go get the newspaper,bring,newspaper,none
+199,Fetch the newspaper,bring,newspaper,none
+200,Bring me some juice,bring,juice,none
+201,Get me some juice,bring,juice,none
+202,Bring some juice,bring,juice,none
+203,Bring juice,bring,juice,none
+204,Go get me some juice,bring,juice,none
+205,Bring me my socks,bring,socks,none
+206,Get me my socks,bring,socks,none
+207,Bring socks,bring,socks,none
+208,Bring my socks,bring,socks,none
+209,Go get me my socks,bring,socks,none
+210,Fetch my socks,bring,socks,none
+211,Bring me my shoes,bring,shoes,none
+212,Get me my shoes,bring,shoes,none
+213,Bring shoes,bring,shoes,none
+214,Bring my shoes,bring,shoes,none
+215,Go get me my shoes,bring,shoes,none
+216,Fetch my shoes,bring,shoes,none
+217,Allow a different language,change language,none,none
+218,Use a different language,change language,none,none
+219,Change the language,change language,none,none
+220,Switch the language,change language,none,none
+221,Switch language,change language,none,none
+222,Switch languages,change language,none,none
+223,Change system language,change language,none,none
+224,Open language settings,change language,none,none
+225,Set the language,change language,none,none
+226,Language settings,change language,none,none
+227,Set language to Chinese,change language,Chinese,none
+228,Set language to German,change language,German,none
+229,Set language to Korean,change language,Korean,none
+230,Set language to English,change language,English,none
+231,Set my device to Chinese,change language,Chinese,none
+232,OK now switch the main language to German,change language,German,none
+233,OK now switch the main language to Korean,change language,Korean,none
+234,OK now switch the main language to English,change language,English,none
+235,Set my phone's language to Chinese,change language,Chinese,none
+236,Set my phone's language to German,change language,German,none
+237,Set my phone's language to Korean,change language,Korean,none
+238,Set my phone's language to English,change language,English,none
+239,I need to practice my Chinese. Switch the language,change language,Chinese,none
+240,I need to practice my German. Switch the language,change language,German,none
+241,I need to practice my Korean. Switch the language,change language,Korean,none
+242,I need to practice my English. Switch the language,change language,English,none
+243,Turn the washroom lights off,deactivate,lights,washroom
+244,Pause,deactivate,music,none
+245,Turn on the lights,activate,lights,none
+246,Turn off the lights,deactivate,lights,none
+247,Change language,change language,none,none
+248,Pause the music,deactivate,music,none
+249,Resume,activate,music,none
+250,Volume down,decrease,volume,none
+251,Turn the lights on,activate,lights,none
+252,Switch on the lights,activate,lights,none
+253,Lights on,activate,lights,none
+254,Switch off the lights,deactivate,lights,none
+255,Turn the lights off,deactivate,lights,none
+256,Lights off,deactivate,lights,none
+257,Volume up,increase,volume,none
+258,Turn up the volume,increase,volume,none
+259,Turn the volume up,increase,volume,none
+260,Make the music louder,increase,volume,none
+261,Turn down the volume,decrease,volume,none
+262,Turn the volume down,decrease,volume,none
+263,Make the music softer,decrease,volume,none
+264,Turn up the temperature,increase,heat,none
+265,Turn the temperature up,increase,heat,none
+266,Turn up the heat,increase,heat,none
+267,Turn the heat up,increase,heat,none
+268,Turn down the temperature,decrease,heat,none
+269,Turn the temperature down,decrease,heat,none
+270,Turn down the heat,decrease,heat,none
+271,Turn the heat down,decrease,heat,none
+272,Turn off the music,deactivate,music,none
+273,Stop the music,deactivate,music,none
+274,Play,activate,music,none
+275,Put on the music,activate,music,none
+276,Play the music,activate,music,none
+277,Start the music,activate,music,none
+278,Turn on the lamp,activate,lamp,none
+279,Switch on the lamp,activate,lamp,none
+280,Turn the lamp on,activate,lamp,none
+281,Lamp on,activate,lamp,none
+282,Turn off the lamp,deactivate,lamp,none
+283,Turn the lamp off,deactivate,lamp,none
+284,Switch off the lamp,deactivate,lamp,none
+285,Lamp off,deactivate,lamp,none
+286,Switch the lights on,activate,lights,none
+287,Turn on the kitchen lights,activate,lights,kitchen
+288,Switch on the kitchen lights,activate,lights,kitchen
+289,Turn the lights on in the kitchen,activate,lights,kitchen
+290,Switch on the lights in the kitchen,activate,lights,kitchen
+291,Lights on in the kitchen,activate,lights,kitchen
+292,Kitchen lights on,activate,lights,kitchen
+293,Switch the kitchen lights on,activate,lights,kitchen
+294,Turn the kitchen lights on,activate,lights,kitchen
+295,Turn on the lights in the bedroom,activate,lights,bedroom
+296,Turn the bedroom lights on,activate,lights,bedroom
+297,Switch on the lights in the bedroom,activate,lights,bedroom
+298,Switch the bedroom lights on,activate,lights,bedroom
+299,Lights on in the bedroom,activate,lights,bedroom
+300,Bedroom lights on,activate,lights,bedroom
+301,Turn on the washroom lights,activate,lights,washroom
+302,Turn the washroom lights on,activate,lights,washroom
+303,Switch on the washroom lights,activate,lights,washroom
+304,Lights on in the washroom,activate,lights,washroom
+305,Washroom lights on,activate,lights,washroom
+306,Turn on the bathroom lights,activate,lights,washroom
+307,Turn the bathroom lights on,activate,lights,washroom
+308,Switch on the bathroom lights,activate,lights,washroom
+309,Lights on in the bathroom,activate,lights,washroom
+310,Bathroom lights on,activate,lights,washroom
+311,Switch the lights off,deactivate,lights,none
+312,Turn off the kitchen lights,deactivate,lights,kitchen
+313,Turn the lights off in the kitchen,deactivate,lights,kitchen
+314,Switch off the lights in the kitchen,deactivate,lights,kitchen
+315,Switch the lights off in the kitchen,deactivate,lights,kitchen
+316,Lights off in the kitchen,deactivate,lights,kitchen
+317,Kitchen lights off,deactivate,lights,kitchen
+318,Turn off the lights in the bedroom,deactivate,lights,bedroom
+319,Turn the bedroom lights off,deactivate,lights,bedroom
+320,Switch off the lights in the bedroom,deactivate,lights,bedroom
+321,Switch the bedroom lights off,deactivate,lights,bedroom
+322,Lights off in the bedroom,deactivate,lights,bedroom
+323,Bedroom lights off,deactivate,lights,bedroom
+324,Turn off the washroom lights,deactivate,lights,washroom
+325,Switch off the washroom lights,deactivate,lights,washroom
+326,Lights off in the washroom,deactivate,lights,washroom
+327,Washroom lights off,deactivate,lights,washroom
+328,Turn volume up,increase,volume,none
+329,Turn sound up,increase,volume,none
+330,Turn it up,increase,volume,none
+331,Make it louder,increase,volume,none
+332,Louder,increase,volume,none
+333,Volume max,increase,volume,none
+334,Louder please,increase,volume,none
+335,Increase the volume,increase,volume,none
+336,Increase the sound volume,increase,volume,none
+337,I need volume,increase,volume,none
+338,Increase the sound,increase,volume,none
+339,Louder phone,increase,volume,none
+340,I can't hear that,increase,volume,none
+341,Too quiet,increase,volume,none
+342,That's too quiet,increase,volume,none
+343,Far too quiet,increase,volume,none
+344,Turn the sound up,increase,volume,none
+345,"I need to hear this, increase the volume",increase,volume,none
+346,"I couldn't hear anything, turn up the volume",increase,volume,none
+347,"This video sound is too low, turn up the volume",increase,volume,none
+348,Decrease volume,decrease,volume,none
+349,Turn volume down,decrease,volume,none
+350,Turn sound down,decrease,volume,none
+351,Decrease audio volume,decrease,volume,none
+352,Reduce audio volume,decrease,volume,none
+353,Turn it down,decrease,volume,none
+354,Quieter,decrease,volume,none
+355,Volume mute,decrease,volume,none
+356,Lower the volume,decrease,volume,none
+357,Volume lower,decrease,volume,none
+358,Decrease the volume,decrease,volume,none
+359,Decrease sound levels,decrease,volume,none
+360,Too loud,decrease,volume,none
+361,That’s too loud,decrease,volume,none
+362,Far too loud,decrease,volume,none
+363,Make it quieter,decrease,volume,none
+364,"It’s too loud, turn it down",decrease,volume,none
+365,"It’s too loud, turn the volume down",decrease,volume,none
+366,Increase the temperature,increase,heat,none
+367,Increase the heating,increase,heat,none
+368,Could you increase the heating?,increase,heat,none
+369,Could you increase the heating please?,increase,heat,none
+370,Make it hotter,increase,heat,none
+371,More heat,increase,heat,none
+372,Heat up,increase,heat,none
+373,Turn up the temperature in the kitchen,increase,heat,kitchen
+374,Turn the kitchen temperature up,increase,heat,kitchen
+375,Increase the temperature in the kitchen,increase,heat,kitchen
+376,Increase the heating in the kitchen,increase,heat,kitchen
+377,Turn up the heat in the kitchen,increase,heat,kitchen
+378,Turn the heat up in the kitchen,increase,heat,kitchen
+379,Kitchen heat up,increase,heat,kitchen
+380,Turn up the temperature in the bedroom,increase,heat,bedroom
+381,Turn the temperature in the bedroom up,increase,heat,bedroom
+382,Turn up the bedroom heat,increase,heat,bedroom
+383,Turn the bedroom heat up,increase,heat,bedroom
+384,Bedroom heat up,increase,heat,bedroom
+385,Increase the temperature in the bedroom,increase,heat,bedroom
+386,Increase the heating in the bedroom,increase,heat,bedroom
+387,Turn up the washroom temperature,increase,heat,washroom
+388,Turn the temperature up in the washroom,increase,heat,washroom
+389,Turn up the heat in the washroom,increase,heat,washroom
+390,Turn the heat up in the washroom,increase,heat,washroom
+391,Washroom heat up,increase,heat,washroom
+392,Increase the temperature in the washroom,increase,heat,washroom
+393,Increase the heating in the washroom,increase,heat,washroom
+394,Turn up the bathroom temperature,increase,heat,washroom
+395,Turn the temperature up in the bathroom,increase,heat,washroom
+396,Turn up the heat in the bathroom,increase,heat,washroom
+397,Turn the heat up in the bathroom,increase,heat,washroom
+398,Bathroom heat up,increase,heat,washroom
+399,Increase the temperature in the bathroom,increase,heat,washroom
+400,Increase the heating in the bathroom,increase,heat,washroom
+401,Make it cooler,decrease,heat,none
+402,Less heat,decrease,heat,none
+403,Heat down,decrease,heat,none
+404,Decrease the temperature,decrease,heat,none
+405,Decrease the heating,decrease,heat,none
+406,Could you decrease the heating?,decrease,heat,none
+407,Could you decrease the heating please?,decrease,heat,none
+408,Turn down the temperature in the kitchen,decrease,heat,kitchen
+409,Turn the kitchen temperature down,decrease,heat,kitchen
+410,Turn the heat down in the kitchen,decrease,heat,kitchen
+411,Kitchen heat down,decrease,heat,kitchen
+412,Decrease the temperature in the kitchen,decrease,heat,kitchen
+413,Decrease the heating in the kitchen,decrease,heat,kitchen
+414,Turn down the temperature in the bedroom,decrease,heat,bedroom
+415,Turn the temperature in the bedroom down,decrease,heat,bedroom
+416,Turn down the bedroom heat,decrease,heat,bedroom
+417,Turn the bedroom heat down,decrease,heat,bedroom
+418,Bedroom heat down,decrease,heat,bedroom
+419,Decrease the temperature in the bedroom,decrease,heat,bedroom
+420,Decrease the heating in the bedroom,decrease,heat,bedroom
+421,Turn down the washroom temperature,decrease,heat,washroom
+422,Turn the temperature down in the washroom,decrease,heat,washroom
+423,Turn down the heat in the washroom,decrease,heat,washroom
+424,Turn the heat down in the washroom,decrease,heat,washroom
+425,Decrease the temperature in the washroom,decrease,heat,washroom
+426,Decrease the heating in the washroom,decrease,heat,washroom
+427,Washroom heat down,decrease,heat,washroom
+428,Turn down the bathroom temperature,decrease,heat,washroom
+429,Turn the temperature down in the bathroom,decrease,heat,washroom
+430,Turn down the heat in the bathroom,decrease,heat,washroom
+431,Turn the heat down in the bathroom,decrease,heat,washroom
+432,Decrease the temperature in the bathroom,decrease,heat,washroom
+433,Decrease the heating in the bathroom,decrease,heat,washroom
+434,Bathroom heat down,decrease,heat,washroom
+435,Pause music,deactivate,music,none
+436,Stop music,deactivate,music,none
+437,Stop,deactivate,music,none
+438,Play music,activate,music,none
+439,Resume music,activate,music,none
+440,Bring me the newspaper,bring,newspaper,none
+441,Get me the newspaper,bring,newspaper,none
+442,Bring the newspaper,bring,newspaper,none
+443,Bring newspaper,bring,newspaper,none
+444,Go get the newspaper,bring,newspaper,none
+445,Fetch the newspaper,bring,newspaper,none
+446,Bring me some juice,bring,juice,none
+447,Get me some juice,bring,juice,none
+448,Bring some juice,bring,juice,none
+449,Bring juice,bring,juice,none
+450,Go get me some juice,bring,juice,none
+451,Bring me my socks,bring,socks,none
+452,Get me my socks,bring,socks,none
+453,Bring socks,bring,socks,none
+454,Bring my socks,bring,socks,none
+455,Go get me my socks,bring,socks,none
+456,Fetch my socks,bring,socks,none
+457,Bring me my shoes,bring,shoes,none
+458,Get me my shoes,bring,shoes,none
+459,Bring shoes,bring,shoes,none
+460,Bring my shoes,bring,shoes,none
+461,Go get me my shoes,bring,shoes,none
+462,Fetch my shoes,bring,shoes,none
+463,Allow a different language,change language,none,none
+464,Use a different language,change language,none,none
+465,Change the language,change language,none,none
+466,Switch the language,change language,none,none
+467,Switch language,change language,none,none
+468,Switch languages,change language,none,none
+469,Change system language,change language,none,none
+470,Open language settings,change language,none,none
+471,Set the language,change language,none,none
+472,Language settings,change language,none,none
+473,Set language to Chinese,change language,Chinese,none
+474,Set language to German,change language,German,none
+475,Set language to Korean,change language,Korean,none
+476,Set language to English,change language,English,none
+477,Set my device to Chinese,change language,Chinese,none
+478,OK now switch the main language to Chinese,change language,Chinese,none
+479,OK now switch the main language to German,change language,German,none
+480,OK now switch the main language to Korean,change language,Korean,none
+481,OK now switch the main language to English,change language,English,none
+482,Set my phone's language to Chinese,change language,Chinese,none
+483,Set my phone's language to German,change language,German,none
+484,Set my phone's language to Korean,change language,Korean,none
+485,Set my phone's language to English,change language,English,none
+486,I need to practice my Chinese. Switch the language,change language,Chinese,none
+487,I need to practice my German. Switch the language,change language,German,none
+488,I need to practice my Korean. Switch the language,change language,Korean,none
+489,I need to practice my English. Switch the language,change language,English,none
+490,Turn the washroom lights off,deactivate,lights,washroom
+491,Turn on the lights,activate,lights,none
+492,Change language,change language,none,none
+493,Resume,activate,music,none
+494,Volume down,decrease,volume,none
+495,Turn the lights on,activate,lights,none
+496,Switch on the lights,activate,lights,none
+497,Lights on,activate,lights,none
+498,Switch off the lights,deactivate,lights,none
+499,Turn the lights off,deactivate,lights,none
+500,Lights off,deactivate,lights,none
+501,Volume up,increase,volume,none
+502,Turn up the volume,increase,volume,none
+503,Turn the volume up,increase,volume,none
+504,Make the music louder,increase,volume,none
+505,Turn down the volume,decrease,volume,none
+506,Turn the volume down,decrease,volume,none
+507,Make the music softer,decrease,volume,none
+508,Turn up the temperature,increase,heat,none
+509,Turn the temperature up,increase,heat,none
+510,Turn up the heat,increase,heat,none
+511,Turn the heat up,increase,heat,none
+512,Turn down the temperature,decrease,heat,none
+513,Turn the temperature down,decrease,heat,none
+514,Turn down the heat,decrease,heat,none
+515,Turn the heat down,decrease,heat,none
+516,Turn off the music,deactivate,music,none
+517,Stop the music,deactivate,music,none
+518,Play,activate,music,none
+519,Put on the music,activate,music,none
+520,Play the music,activate,music,none
+521,Start the music,activate,music,none
+522,Turn on the lamp,activate,lamp,none
+523,Switch on the lamp,activate,lamp,none
+524,Turn the lamp on,activate,lamp,none
+525,Lamp on,activate,lamp,none
+526,Turn off the lamp,deactivate,lamp,none
+527,Turn the lamp off,deactivate,lamp,none
+528,Switch off the lamp,deactivate,lamp,none
+529,Lamp off,deactivate,lamp,none
+530,Switch the lights on,activate,lights,none
+531,Turn on the kitchen lights,activate,lights,kitchen
+532,Switch on the kitchen lights,activate,lights,kitchen
+533,Turn the lights on in the kitchen,activate,lights,kitchen
+534,Switch on the lights in the kitchen,activate,lights,kitchen
+535,Lights on in the kitchen,activate,lights,kitchen
+536,Kitchen lights on,activate,lights,kitchen
+537,Switch the kitchen lights on,activate,lights,kitchen
+538,Turn the kitchen lights on,activate,lights,kitchen
+539,Turn on the lights in the bedroom,activate,lights,bedroom
+540,Turn the bedroom lights on,activate,lights,bedroom
+541,Switch on the lights in the bedroom,activate,lights,bedroom
+542,Switch the bedroom lights on,activate,lights,bedroom
+543,Lights on in the bedroom,activate,lights,bedroom
+544,Bedroom lights on,activate,lights,bedroom
+545,Turn on the washroom lights,activate,lights,washroom
+546,Turn the washroom lights on,activate,lights,washroom
+547,Switch on the washroom lights,activate,lights,washroom
+548,Lights on in the washroom,activate,lights,washroom
+549,Washroom lights on,activate,lights,washroom
+550,Turn on the bathroom lights,activate,lights,washroom
+551,Turn the bathroom lights on,activate,lights,washroom
+552,Switch on the bathroom lights,activate,lights,washroom
+553,Lights on in the bathroom,activate,lights,washroom
+554,Bathroom lights on,activate,lights,washroom
+555,Switch the lights off,deactivate,lights,none
+556,Turn off the kitchen lights,deactivate,lights,kitchen
+557,Turn the lights off in the kitchen,deactivate,lights,kitchen
+558,Switch off the lights in the kitchen,deactivate,lights,kitchen
+559,Switch the lights off in the kitchen,deactivate,lights,kitchen
+560,Lights off in the kitchen,deactivate,lights,kitchen
+561,Kitchen lights off,deactivate,lights,kitchen
+562,Turn off the lights in the bedroom,deactivate,lights,bedroom
+563,Switch off the lights in the bedroom,deactivate,lights,bedroom
+564,Switch the bedroom lights off,deactivate,lights,bedroom
+565,Lights off in the bedroom,deactivate,lights,bedroom
+566,Bedroom lights off,deactivate,lights,bedroom
+567,Turn off the washroom lights,deactivate,lights,washroom
+568,Switch off the washroom lights,deactivate,lights,washroom
+569,Lights off in the washroom,deactivate,lights,washroom
+570,Washroom lights off,deactivate,lights,washroom
+571,Turn sound up,increase,volume,none
+572,Turn it up,increase,volume,none
+573,Make it louder,increase,volume,none
+574,Louder,increase,volume,none
+575,Volume max,increase,volume,none
+576,Louder please,increase,volume,none
+577,Increase the volume,increase,volume,none
+578,Increase the sound volume,increase,volume,none
+579,I need volume,increase,volume,none
+580,Increase the sound,increase,volume,none
+581,Louder phone,increase,volume,none
+582,I can't hear that,increase,volume,none
+583,Too quiet,increase,volume,none
+584,That's too quiet,increase,volume,none
+585,Far too quiet,increase,volume,none
+586,Turn the sound up,increase,volume,none
+587,"I need to hear this, increase the volume",increase,volume,none
+588,"I couldn't hear anything, turn up the volume",increase,volume,none
+589,"This video sound is too low, turn up the volume",increase,volume,none
+590,Decrease volume,decrease,volume,none
+591,Turn volume down,decrease,volume,none
+592,Turn sound down,decrease,volume,none
+593,Decrease audio volume,decrease,volume,none
+594,Reduce audio volume,decrease,volume,none
+595,Turn it down,decrease,volume,none
+596,Quieter,decrease,volume,none
+597,Volume mute,decrease,volume,none
+598,Lower the volume,decrease,volume,none
+599,Volume lower,decrease,volume,none
+600,Decrease the volume,decrease,volume,none
+601,Decrease sound levels,decrease,volume,none
+602,Too loud,decrease,volume,none
+603,That’s too loud,decrease,volume,none
+604,Far too loud,decrease,volume,none
+605,Make it quieter,decrease,volume,none
+606,"It’s too loud, turn it down",decrease,volume,none
+607,"It’s too loud, turn the volume down",decrease,volume,none
+608,Increase the temperature,increase,heat,none
+609,Increase the heating,increase,heat,none
+610,Could you increase the heating?,increase,heat,none
+611,Could you increase the heating please?,increase,heat,none
+612,Make it hotter,increase,heat,none
+613,More heat,increase,heat,none
+614,Heat up,increase,heat,none
+615,Turn up the temperature in the kitchen,increase,heat,kitchen
+616,Turn the kitchen temperature up,increase,heat,kitchen
+617,Increase the temperature in the kitchen,increase,heat,kitchen
+618,Increase the heating in the kitchen,increase,heat,kitchen
+619,Turn up the heat in the kitchen,increase,heat,kitchen
+620,Turn the heat up in the kitchen,increase,heat,kitchen
+621,Kitchen heat up,increase,heat,kitchen
+622,Turn up the temperature in the bedroom,increase,heat,bedroom
+623,Turn the temperature in the bedroom up,increase,heat,bedroom
+624,Turn up the bedroom heat,increase,heat,bedroom
+625,Turn the bedroom heat up,increase,heat,bedroom
+626,Bedroom heat up,increase,heat,bedroom
+627,Increase the temperature in the bedroom,increase,heat,bedroom
+628,Increase the heating in the bedroom,increase,heat,bedroom
+629,Turn up the washroom temperature,increase,heat,washroom
+630,Turn the temperature up in the washroom,increase,heat,washroom
+631,Turn up the heat in the washroom,increase,heat,washroom
+632,Turn the heat up in the washroom,increase,heat,washroom
+633,Washroom heat up,increase,heat,washroom
+634,Increase the temperature in the washroom,increase,heat,washroom
+635,Increase the heating in the washroom,increase,heat,washroom
+636,Turn up the bathroom temperature,increase,heat,washroom
+637,Turn the temperature up in the bathroom,increase,heat,washroom
+638,Turn up the heat in the bathroom,increase,heat,washroom
+639,Turn the heat up in the bathroom,increase,heat,washroom
+640,Bathroom heat up,increase,heat,washroom
+641,Increase the temperature in the bathroom,increase,heat,washroom
+642,Increase the heating in the bathroom,increase,heat,washroom
+643,Make it cooler,decrease,heat,none
+644,Less heat,decrease,heat,none
+645,Heat down,decrease,heat,none
+646,Decrease the temperature,decrease,heat,none
+647,Decrease the heating,decrease,heat,none
+648,Could you decrease the heating?,decrease,heat,none
+649,Could you decrease the heating please?,decrease,heat,none
+650,Turn down the temperature in the kitchen,decrease,heat,kitchen
+651,Turn the kitchen temperature down,decrease,heat,kitchen
+652,Turn down the heat in the kitchen,decrease,heat,kitchen
+653,Turn the heat down in the kitchen,decrease,heat,kitchen
+654,Kitchen heat down,decrease,heat,kitchen
+655,Decrease the temperature in the kitchen,decrease,heat,kitchen
+656,Decrease the heating in the kitchen,decrease,heat,kitchen
+657,Turn down the temperature in the bedroom,decrease,heat,bedroom
+658,Turn the temperature in the bedroom down,decrease,heat,bedroom
+659,Turn down the bedroom heat,decrease,heat,bedroom
+660,Turn the bedroom heat down,decrease,heat,bedroom
+661,Bedroom heat down,decrease,heat,bedroom
+662,Decrease the temperature in the bedroom,decrease,heat,bedroom
+663,Decrease the heating in the bedroom,decrease,heat,bedroom
+664,Turn down the washroom temperature,decrease,heat,washroom
+665,Turn the temperature down in the washroom,decrease,heat,washroom
+666,Turn down the heat in the washroom,decrease,heat,washroom
+667,Turn the heat down in the washroom,decrease,heat,washroom
+668,Decrease the temperature in the washroom,decrease,heat,washroom
+669,Decrease the heating in the washroom,decrease,heat,washroom
+670,Washroom heat down,decrease,heat,washroom
+671,Turn down the bathroom temperature,decrease,heat,washroom
+672,Turn the temperature down in the bathroom,decrease,heat,washroom
+673,Turn down the heat in the bathroom,decrease,heat,washroom
+674,Turn the heat down in the bathroom,decrease,heat,washroom
+675,Decrease the temperature in the bathroom,decrease,heat,washroom
+676,Decrease the heating in the bathroom,decrease,heat,washroom
+677,Bathroom heat down,decrease,heat,washroom
+678,Pause music,deactivate,music,none
+679,Stop music,deactivate,music,none
+680,Stop,deactivate,music,none
+681,Play music,activate,music,none
+682,Resume music,activate,music,none
+683,Bring me the newspaper,bring,newspaper,none
+684,Get me the newspaper,bring,newspaper,none
+685,Bring the newspaper,bring,newspaper,none
+686,Bring newspaper,bring,newspaper,none
+687,Go get the newspaper,bring,newspaper,none
+688,Fetch the newspaper,bring,newspaper,none
+689,Bring me some juice,bring,juice,none
+690,Get me some juice,bring,juice,none
+691,Bring some juice,bring,juice,none
+692,Bring juice,bring,juice,none
+693,Go get me some juice,bring,juice,none
+694,Bring me my socks,bring,socks,none
+695,Get me my socks,bring,socks,none
+696,Bring socks,bring,socks,none
+697,Bring my socks,bring,socks,none
+698,Go get me my socks,bring,socks,none
+699,Fetch my socks,bring,socks,none
+700,Bring me my shoes,bring,shoes,none
+701,Get me my shoes,bring,shoes,none
+702,Bring shoes,bring,shoes,none
+703,Bring my shoes,bring,shoes,none
+704,Go get me my shoes,bring,shoes,none
+705,Fetch my shoes,bring,shoes,none
+706,Allow a different language,change language,none,none
+707,Use a different language,change language,none,none
+708,Change the language,change language,none,none
+709,Switch the language,change language,none,none
+710,Switch language,change language,none,none
+711,Switch languages,change language,none,none
+712,Change system language,change language,none,none
+713,Open language settings,change language,none,none
+714,Set the language,change language,none,none
+715,Language settings,change language,none,none
+716,Set language to Chinese,change language,Chinese,none
+717,Set language to German,change language,German,none
+718,Set language to Korean,change language,Korean,none
+719,Set language to English,change language,English,none
+720,Set my device to Chinese,change language,Chinese,none
+721,OK now switch the main language to Chinese,change language,Chinese,none
+722,OK now switch the main language to German,change language,German,none
+723,OK now switch the main language to Korean,change language,Korean,none
+724,OK now switch the main language to English,change language,English,none
+725,Set my phone's language to Chinese,change language,Chinese,none
+726,Set my phone's language to German,change language,German,none
+727,Set my phone's language to Korean,change language,Korean,none
+728,Set my phone's language to English,change language,English,none
+729,I need to practice my Chinese. Switch the language,change language,Chinese,none
+730,I need to practice my German. Switch the language,change language,German,none
+731,I need to practice my Korean. Switch the language,change language,Korean,none
+732,I need to practice my English. Switch the language,change language,English,none
+733,Turn the washroom lights off,deactivate,lights,washroom
+734,Pause,deactivate,music,none
+735,Turn on the lights,activate,lights,none
+736,Turn off the lights,deactivate,lights,none
+737,Change language,change language,none,none
+738,Pause the music,deactivate,music,none
+739,Resume,activate,music,none
+740,Volume down,decrease,volume,none
+741,Turn the lights on,activate,lights,none
+742,Switch on the lights,activate,lights,none
+743,Lights on,activate,lights,none
+744,Switch off the lights,deactivate,lights,none
+745,Turn the lights off,deactivate,lights,none
+746,Lights off,deactivate,lights,none
+747,Volume up,increase,volume,none
+748,Turn up the volume,increase,volume,none
+749,Turn the volume up,increase,volume,none
+750,Make the music louder,increase,volume,none
+751,Turn down the volume,decrease,volume,none
+752,Turn the volume down,decrease,volume,none
+753,Make the music softer,decrease,volume,none
+754,Turn up the temperature,increase,heat,none
+755,Turn the temperature up,increase,heat,none
+756,Turn up the heat,increase,heat,none
+757,Turn the heat up,increase,heat,none
+758,Turn down the temperature,decrease,heat,none
+759,Turn the temperature down,decrease,heat,none
+760,Turn down the heat,decrease,heat,none
+761,Turn the heat down,decrease,heat,none
+762,Turn off the music,deactivate,music,none
+763,Stop the music,deactivate,music,none
+764,Play,activate,music,none
+765,Put on the music,activate,music,none
+766,Start the music,activate,music,none
+767,Turn on the lamp,activate,lamp,none
+768,Switch on the lamp,activate,lamp,none
+769,Turn the lamp on,activate,lamp,none
+770,Lamp on,activate,lamp,none
+771,Turn off the lamp,deactivate,lamp,none
+772,Turn the lamp off,deactivate,lamp,none
+773,Switch off the lamp,deactivate,lamp,none
+774,Lamp off,deactivate,lamp,none
+775,Switch the lights on,activate,lights,none
+776,Turn on the kitchen lights,activate,lights,kitchen
+777,Switch on the kitchen lights,activate,lights,kitchen
+778,Turn the lights on in the kitchen,activate,lights,kitchen
+779,Switch on the lights in the kitchen,activate,lights,kitchen
+780,Lights on in the kitchen,activate,lights,kitchen
+781,Kitchen lights on,activate,lights,kitchen
+782,Switch the kitchen lights on,activate,lights,kitchen
+783,Turn the kitchen lights on,activate,lights,kitchen
+784,Turn on the lights in the bedroom,activate,lights,bedroom
+785,Turn the bedroom lights on,activate,lights,bedroom
+786,Switch on the lights in the bedroom,activate,lights,bedroom
+787,Switch the bedroom lights on,activate,lights,bedroom
+788,Lights on in the bedroom,activate,lights,bedroom
+789,Bedroom lights on,activate,lights,bedroom
+790,Turn on the washroom lights,activate,lights,washroom
+791,Turn the washroom lights on,activate,lights,washroom
+792,Switch on the washroom lights,activate,lights,washroom
+793,Lights on in the washroom,activate,lights,washroom
+794,Washroom lights on,activate,lights,washroom
+795,Turn on the bathroom lights,activate,lights,washroom
+796,Turn the bathroom lights on,activate,lights,washroom
+797,Switch on the bathroom lights,activate,lights,washroom
+798,Lights on in the bathroom,activate,lights,washroom
+799,Bathroom lights on,activate,lights,washroom
+800,Switch the lights off,deactivate,lights,none
+801,Turn off the kitchen lights,deactivate,lights,kitchen
+802,Turn the lights off in the kitchen,deactivate,lights,kitchen
+803,Switch off the lights in the kitchen,deactivate,lights,kitchen
+804,Switch the lights off in the kitchen,deactivate,lights,kitchen
+805,Lights off in the kitchen,deactivate,lights,kitchen
+806,Kitchen lights off,deactivate,lights,kitchen
+807,Turn off the lights in the bedroom,deactivate,lights,bedroom
+808,Turn the bedroom lights off,deactivate,lights,bedroom
+809,Switch off the lights in the bedroom,deactivate,lights,bedroom
+810,Switch the bedroom lights off,deactivate,lights,bedroom
+811,Lights off in the bedroom,deactivate,lights,bedroom
+812,Bedroom lights off,deactivate,lights,bedroom
+813,Turn off the washroom lights,deactivate,lights,washroom
+814,Switch off the washroom lights,deactivate,lights,washroom
+815,Lights off in the washroom,deactivate,lights,washroom
+816,Washroom lights off,deactivate,lights,washroom
+817,Turn volume up,increase,volume,none
+818,Turn sound up,increase,volume,none
+819,Turn it up,increase,volume,none
+820,Make it louder,increase,volume,none
+821,Louder,increase,volume,none
+822,Volume max,increase,volume,none
+823,Louder please,increase,volume,none
+824,Increase the volume,increase,volume,none
+825,Increase the sound volume,increase,volume,none
+826,I need volume,increase,volume,none
+827,Increase the sound,increase,volume,none
+828,Louder phone,increase,volume,none
+829,I can't hear that,increase,volume,none
+830,Too quiet,increase,volume,none
+831,That's too quiet,increase,volume,none
+832,Far too quiet,increase,volume,none
+833,Turn the sound up,increase,volume,none
+834,"I need to hear this, increase the volume",increase,volume,none
+835,"I couldn't hear anything, turn up the volume",increase,volume,none
+836,"This video sound is too low, turn up the volume",increase,volume,none
+837,Decrease volume,decrease,volume,none
+838,Turn volume down,decrease,volume,none
+839,Turn sound down,decrease,volume,none
+840,Decrease audio volume,decrease,volume,none
+841,Reduce audio volume,decrease,volume,none
+842,Turn it down,decrease,volume,none
+843,Quieter,decrease,volume,none
+844,Volume mute,decrease,volume,none
+845,Lower the volume,decrease,volume,none
+846,Volume lower,decrease,volume,none
+847,Decrease the volume,decrease,volume,none
+848,Decrease sound levels,decrease,volume,none
+849,Too loud,decrease,volume,none
+850,That’s too loud,decrease,volume,none
+851,Far too loud,decrease,volume,none
+852,Make it quieter,decrease,volume,none
+853,"It’s too loud, turn it down",decrease,volume,none
+854,"It’s too loud, turn the volume down",decrease,volume,none
+855,Increase the temperature,increase,heat,none
+856,Increase the heating,increase,heat,none
+857,Could you increase the heating?,increase,heat,none
+858,Could you increase the heating please?,increase,heat,none
+859,Make it hotter,increase,heat,none
+860,More heat,increase,heat,none
+861,Heat up,increase,heat,none
+862,Turn up the temperature in the kitchen,increase,heat,kitchen
+863,Turn the kitchen temperature up,increase,heat,kitchen
+864,Increase the temperature in the kitchen,increase,heat,kitchen
+865,Increase the heating in the kitchen,increase,heat,kitchen
+866,Turn up the heat in the kitchen,increase,heat,kitchen
+867,Turn the heat up in the kitchen,increase,heat,kitchen
+868,Kitchen heat up,increase,heat,kitchen
+869,Turn up the temperature in the bedroom,increase,heat,bedroom
+870,Turn the temperature in the bedroom up,increase,heat,bedroom
+871,Turn up the bedroom heat,increase,heat,bedroom
+872,Turn the bedroom heat up,increase,heat,bedroom
+873,Bedroom heat up,increase,heat,bedroom
+874,Increase the temperature in the bedroom,increase,heat,bedroom
+875,Increase the heating in the bedroom,increase,heat,bedroom
+876,Turn up the washroom temperature,increase,heat,washroom
+877,Turn the temperature up in the washroom,increase,heat,washroom
+878,Turn up the heat in the washroom,increase,heat,washroom
+879,Turn the heat up in the washroom,increase,heat,washroom
+880,Washroom heat up,increase,heat,washroom
+881,Increase the temperature in the washroom,increase,heat,washroom
+882,Increase the heating in the washroom,increase,heat,washroom
+883,Turn up the bathroom temperature,increase,heat,washroom
+884,Turn the temperature up in the bathroom,increase,heat,washroom
+885,Turn up the heat in the bathroom,increase,heat,washroom
+886,Turn the heat up in the bathroom,increase,heat,washroom
+887,Bathroom heat up,increase,heat,washroom
+888,Increase the temperature in the bathroom,increase,heat,washroom
+889,Increase the heating in the bathroom,increase,heat,washroom
+890,Make it cooler,decrease,heat,none
+891,Less heat,decrease,heat,none
+892,Heat down,decrease,heat,none
+893,Decrease the temperature,decrease,heat,none
+894,Decrease the heating,decrease,heat,none
+895,Could you decrease the heating?,decrease,heat,none
+896,Could you decrease the heating please?,decrease,heat,none
+897,Turn down the temperature in the kitchen,decrease,heat,kitchen
+898,Turn the kitchen temperature down,decrease,heat,kitchen
+899,Turn down the heat in the kitchen,decrease,heat,kitchen
+900,Turn the heat down in the kitchen,decrease,heat,kitchen
+901,Kitchen heat down,decrease,heat,kitchen
+902,Decrease the temperature in the kitchen,decrease,heat,kitchen
+903,Decrease the heating in the kitchen,decrease,heat,kitchen
+904,Turn down the temperature in the bedroom,decrease,heat,bedroom
+905,Turn the temperature in the bedroom down,decrease,heat,bedroom
+906,Turn down the bedroom heat,decrease,heat,bedroom
+907,Turn the bedroom heat down,decrease,heat,bedroom
+908,Bedroom heat down,decrease,heat,bedroom
+909,Decrease the temperature in the bedroom,decrease,heat,bedroom
+910,Decrease the heating in the bedroom,decrease,heat,bedroom
+911,Turn down the washroom temperature,decrease,heat,washroom
+912,Turn the temperature down in the washroom,decrease,heat,washroom
+913,Turn down the heat in the washroom,decrease,heat,washroom
+914,Turn the heat down in the washroom,decrease,heat,washroom
+915,Decrease the temperature in the washroom,decrease,heat,washroom
+916,Decrease the heating in the washroom,decrease,heat,washroom
+917,Turn off the lights,deactivate,lights,none
+918,Change language,change language,none,none
+919,Pause the music,deactivate,music,none
+920,Resume,activate,music,none
+921,Turn the lights on,activate,lights,none
+922,Switch on the lights,activate,lights,none
+923,Lights on,activate,lights,none
+924,Switch off the lights,deactivate,lights,none
+925,Turn the lights off,deactivate,lights,none
+926,Lights off,deactivate,lights,none
+927,Volume up,increase,volume,none
+928,Turn the volume up,increase,volume,none
+929,Make the music louder,increase,volume,none
+930,Turn down the volume,decrease,volume,none
+931,Turn the volume down,decrease,volume,none
+932,Make the music softer,decrease,volume,none
+933,Turn up the temperature,increase,heat,none
+934,Turn the temperature up,increase,heat,none
+935,Turn up the heat,increase,heat,none
+936,Turn down the heat,decrease,heat,none
+937,Turn off the music,deactivate,music,none
+938,Stop the music,deactivate,music,none
+939,Play,activate,music,none
+940,Put on the music,activate,music,none
+941,Play the music,activate,music,none
+942,Start the music,activate,music,none
+943,Turn on the lamp,activate,lamp,none
+944,Turn the lamp on,activate,lamp,none
+945,Lamp on,activate,lamp,none
+946,Turn off the lamp,deactivate,lamp,none
+947,Turn the lamp off,deactivate,lamp,none
+948,Turn the lights on in the kitchen,activate,lights,kitchen
+949,Switch on the lights in the kitchen,activate,lights,kitchen
+950,Lights on in the kitchen,activate,lights,kitchen
+951,Kitchen lights on,activate,lights,kitchen
+952,Switch the kitchen lights on,activate,lights,kitchen
+953,Turn the kitchen lights on,activate,lights,kitchen
+954,Turn on the lights in the bedroom,activate,lights,bedroom
+955,Switch the bedroom lights on,activate,lights,bedroom
+956,Lights on in the bedroom,activate,lights,bedroom
+957,Bedroom lights on,activate,lights,bedroom
+958,Turn on the washroom lights,activate,lights,washroom
+959,Switch on the washroom lights,activate,lights,washroom
+960,Lights on in the washroom,activate,lights,washroom
+961,Washroom lights on,activate,lights,washroom
+962,Turn the bathroom lights on,activate,lights,washroom
+963,Switch on the bathroom lights,activate,lights,washroom
+964,Lights on in the bathroom,activate,lights,washroom
+965,Bathroom lights on,activate,lights,washroom
+966,Turn the lights off in the kitchen,deactivate,lights,kitchen
+967,Switch off the lights in the kitchen,deactivate,lights,kitchen
+968,Lights off in the kitchen,deactivate,lights,kitchen
+969,Kitchen lights off,deactivate,lights,kitchen
+970,Turn off the lights in the bedroom,deactivate,lights,bedroom
+971,Switch off the lights in the bedroom,deactivate,lights,bedroom
+972,Switch the bedroom lights off,deactivate,lights,bedroom
+973,Lights off in the bedroom,deactivate,lights,bedroom
+974,Turn off the washroom lights,deactivate,lights,washroom
+975,Switch off the washroom lights,deactivate,lights,washroom
+976,Lights off in the washroom,deactivate,lights,washroom
+977,Washroom lights off,deactivate,lights,washroom
+978,Turn volume up,increase,volume,none
+979,Turn sound up,increase,volume,none
+980,Turn it up,increase,volume,none
+981,Make it louder,increase,volume,none
+982,Louder,increase,volume,none
+983,Volume max,increase,volume,none
+984,Increase the sound volume,increase,volume,none
+985,I need volume,increase,volume,none
+986,Turn the sound up,increase,volume,none
+987,Turn sound down,decrease,volume,none
+988,Quieter,decrease,volume,none
+989,Turn the temperature in the bedroom up,increase,heat,bedroom
+990,Turn the heat up in the washroom,increase,heat,washroom
+991,Increase the temperature in the washroom,increase,heat,washroom
+992,Increase the heating in the washroom,increase,heat,washroom
+993,Turn up the bathroom temperature,increase,heat,washroom
+994,Turn the temperature up in the bathroom,increase,heat,washroom
+995,Turn up the heat in the bathroom,increase,heat,washroom
+996,Less heat,decrease,heat,none
+997,Decrease the temperature,decrease,heat,none
+998,Decrease the heating,decrease,heat,none
+999,Could you decrease the heating please?,decrease,heat,none
+1000,Turn on the lights,activate,lights,none
+1001,Turn off the lights,deactivate,lights,none
+1002,Change language,change language,none,none
+1003,Pause the music,deactivate,music,none
+1004,Resume,activate,music,none
+1005,Turn the lights on,activate,lights,none
+1006,Switch on the lights,activate,lights,none
+1007,Lights on,activate,lights,none
+1008,Switch off the lights,deactivate,lights,none
+1009,Turn the lights off,deactivate,lights,none
+1010,Lights off,deactivate,lights,none
+1011,Volume up,increase,volume,none
+1012,Turn up the volume,increase,volume,none
+1013,Turn the volume up,increase,volume,none
+1014,Turn down the volume,decrease,volume,none
+1015,Turn the volume down,decrease,volume,none
+1016,Make the music softer,decrease,volume,none
+1017,Turn up the temperature,increase,heat,none
+1018,Turn the temperature up,increase,heat,none
+1019,Turn up the heat,increase,heat,none
+1020,Turn the heat up,increase,heat,none
+1021,Turn down the temperature,decrease,heat,none
+1022,Turn the temperature down,decrease,heat,none
+1023,Turn down the heat,decrease,heat,none
+1024,Turn the heat down,decrease,heat,none
+1025,Turn off the music,deactivate,music,none
+1026,Stop the music,deactivate,music,none
+1027,Play,activate,music,none
+1028,Put on the music,activate,music,none
+1029,Play the music,activate,music,none
+1030,Start the music,activate,music,none
+1031,Switch on the lamp,activate,lamp,none
+1032,Turn the lamp on,activate,lamp,none
+1033,Lamp on,activate,lamp,none
+1034,Turn off the lamp,deactivate,lamp,none
+1035,Turn the lamp off,deactivate,lamp,none
+1036,Switch off the lamp,deactivate,lamp,none
+1037,Lamp off,deactivate,lamp,none
+1038,Switch the lights on,activate,lights,none
+1039,Turn on the kitchen lights,activate,lights,kitchen
+1040,Switch on the kitchen lights,activate,lights,kitchen
+1041,Turn the lights on in the kitchen,activate,lights,kitchen
+1042,Switch on the lights in the kitchen,activate,lights,kitchen
+1043,Lights on in the kitchen,activate,lights,kitchen
+1044,Kitchen lights on,activate,lights,kitchen
+1045,Switch the kitchen lights on,activate,lights,kitchen
+1046,Turn the kitchen lights on,activate,lights,kitchen
+1047,Turn on the lights in the bedroom,activate,lights,bedroom
+1048,Switch on the lights in the bedroom,activate,lights,bedroom
+1049,Switch the bedroom lights on,activate,lights,bedroom
+1050,Lights on in the bedroom,activate,lights,bedroom
+1051,Bedroom lights on,activate,lights,bedroom
+1052,Turn on the washroom lights,activate,lights,washroom
+1053,Turn the washroom lights on,activate,lights,washroom
+1054,Switch on the washroom lights,activate,lights,washroom
+1055,Lights on in the washroom,activate,lights,washroom
+1056,Washroom lights on,activate,lights,washroom
+1057,Turn on the bathroom lights,activate,lights,washroom
+1058,Turn the bathroom lights on,activate,lights,washroom
+1059,Switch on the bathroom lights,activate,lights,washroom
+1060,Lights on in the bathroom,activate,lights,washroom
+1061,Bathroom lights on,activate,lights,washroom
+1062,Switch the lights off,deactivate,lights,none
+1063,Turn off the kitchen lights,deactivate,lights,kitchen
+1064,Turn the lights off in the kitchen,deactivate,lights,kitchen
+1065,Switch off the lights in the kitchen,deactivate,lights,kitchen
+1066,Lights off in the kitchen,deactivate,lights,kitchen
+1067,Kitchen lights off,deactivate,lights,kitchen
+1068,Turn off the lights in the bedroom,deactivate,lights,bedroom
+1069,Turn the bedroom lights off,deactivate,lights,bedroom
+1070,Switch off the lights in the bedroom,deactivate,lights,bedroom
+1071,Switch the bedroom lights off,deactivate,lights,bedroom
+1072,Lights off in the bedroom,deactivate,lights,bedroom
+1073,Bedroom lights off,deactivate,lights,bedroom
+1074,Turn off the washroom lights,deactivate,lights,washroom
+1075,Switch off the washroom lights,deactivate,lights,washroom
+1076,Lights off in the washroom,deactivate,lights,washroom
+1077,Washroom lights off,deactivate,lights,washroom
+1078,Turn volume up,increase,volume,none
+1079,Turn sound up,increase,volume,none
+1080,Make it louder,increase,volume,none
+1081,Louder,increase,volume,none
+1082,Volume max,increase,volume,none
+1083,Louder please,increase,volume,none
+1084,Increase the volume,increase,volume,none
+1085,Increase the sound volume,increase,volume,none
+1086,I need volume,increase,volume,none
+1087,Increase the sound,increase,volume,none
+1088,Louder phone,increase,volume,none
+1089,I can't hear that,increase,volume,none
+1090,Too quiet,increase,volume,none
+1091,That's too quiet,increase,volume,none
+1092,Far too quiet,increase,volume,none
+1093,Turn the sound up,increase,volume,none
+1094,"I need to hear this, increase the volume",increase,volume,none
+1095,"I couldn't hear anything, turn up the volume",increase,volume,none
+1096,"This video sound is too low, turn up the volume",increase,volume,none
+1097,Decrease volume,decrease,volume,none
+1098,Turn volume down,decrease,volume,none
+1099,Turn sound down,decrease,volume,none
+1100,Decrease audio volume,decrease,volume,none
+1101,Reduce audio volume,decrease,volume,none
+1102,Turn it down,decrease,volume,none
+1103,Quieter,decrease,volume,none
+1104,Volume mute,decrease,volume,none
+1105,Lower the volume,decrease,volume,none
+1106,Volume lower,decrease,volume,none
+1107,Decrease the volume,decrease,volume,none
+1108,Decrease sound levels,decrease,volume,none
+1109,Too loud,decrease,volume,none
+1110,That’s too loud,decrease,volume,none
+1111,Far too loud,decrease,volume,none
+1112,Make it quieter,decrease,volume,none
+1113,"It’s too loud, turn it down",decrease,volume,none
+1114,"It’s too loud, turn the volume down",decrease,volume,none
+1115,Increase the temperature,increase,heat,none
+1116,Increase the heating,increase,heat,none
+1117,Could you increase the heating?,increase,heat,none
+1118,Could you increase the heating please?,increase,heat,none
+1119,Make it hotter,increase,heat,none
+1120,More heat,increase,heat,none
+1121,Heat up,increase,heat,none
+1122,Turn up the temperature in the kitchen,increase,heat,kitchen
+1123,Turn the kitchen temperature up,increase,heat,kitchen
+1124,Increase the temperature in the kitchen,increase,heat,kitchen
+1125,Increase the heating in the kitchen,increase,heat,kitchen
+1126,Turn up the heat in the kitchen,increase,heat,kitchen
+1127,Turn the heat up in the kitchen,increase,heat,kitchen
+1128,Kitchen heat up,increase,heat,kitchen
+1129,Turn up the temperature in the bedroom,increase,heat,bedroom
+1130,Turn the temperature in the bedroom up,increase,heat,bedroom
+1131,Turn up the bedroom heat,increase,heat,bedroom
+1132,Turn the bedroom heat up,increase,heat,bedroom
+1133,Bedroom heat up,increase,heat,bedroom
+1134,Increase the temperature in the bedroom,increase,heat,bedroom
+1135,Increase the heating in the bedroom,increase,heat,bedroom
+1136,Turn up the washroom temperature,increase,heat,washroom
+1137,Turn the temperature up in the washroom,increase,heat,washroom
+1138,Turn up the heat in the washroom,increase,heat,washroom
+1139,Turn the heat up in the washroom,increase,heat,washroom
+1140,Washroom heat up,increase,heat,washroom
+1141,Increase the temperature in the washroom,increase,heat,washroom
+1142,Increase the heating in the washroom,increase,heat,washroom
+1143,Turn up the bathroom temperature,increase,heat,washroom
+1144,Turn the temperature up in the bathroom,increase,heat,washroom
+1145,Turn up the heat in the bathroom,increase,heat,washroom
+1146,Turn the heat up in the bathroom,increase,heat,washroom
+1147,Bathroom heat up,increase,heat,washroom
+1148,Increase the temperature in the bathroom,increase,heat,washroom
+1149,Increase the heating in the bathroom,increase,heat,washroom
+1150,Make it cooler,decrease,heat,none
+1151,Less heat,decrease,heat,none
+1152,Heat down,decrease,heat,none
+1153,Decrease the temperature,decrease,heat,none
+1154,Decrease the heating,decrease,heat,none
+1155,Could you decrease the heating?,decrease,heat,none
+1156,Could you decrease the heating please?,decrease,heat,none
+1157,Turn down the temperature in the kitchen,decrease,heat,kitchen
+1158,Turn the kitchen temperature down,decrease,heat,kitchen
+1159,Turn down the heat in the kitchen,decrease,heat,kitchen
+1160,Turn the heat down in the kitchen,decrease,heat,kitchen
+1161,Kitchen heat down,decrease,heat,kitchen
+1162,Decrease the temperature in the kitchen,decrease,heat,kitchen
+1163,Decrease the heating in the kitchen,decrease,heat,kitchen
+1164,Turn down the temperature in the bedroom,decrease,heat,bedroom
+1165,Turn the temperature in the bedroom down,decrease,heat,bedroom
+1166,Turn down the bedroom heat,decrease,heat,bedroom
+1167,Bedroom heat down,decrease,heat,bedroom
+1168,Decrease the temperature in the bedroom,decrease,heat,bedroom
+1169,Decrease the heating in the bedroom,decrease,heat,bedroom
+1170,Turn down the washroom temperature,decrease,heat,washroom
+1171,Turn the temperature down in the washroom,decrease,heat,washroom
+1172,Turn down the heat in the washroom,decrease,heat,washroom
+1173,Turn the heat down in the washroom,decrease,heat,washroom
+1174,Decrease the temperature in the washroom,decrease,heat,washroom
+1175,Decrease the heating in the washroom,decrease,heat,washroom
+1176,Washroom heat down,decrease,heat,washroom
+1177,Turn down the bathroom temperature,decrease,heat,washroom
+1178,Turn the temperature down in the bathroom,decrease,heat,washroom
+1179,Turn down the heat in the bathroom,decrease,heat,washroom
+1180,Turn the heat down in the bathroom,decrease,heat,washroom
+1181,Decrease the heating in the bathroom,decrease,heat,washroom
+1182,Bathroom heat down,decrease,heat,washroom
+1183,Pause music,deactivate,music,none
+1184,Stop music,deactivate,music,none
+1185,Stop,deactivate,music,none
+1186,Play music,activate,music,none
+1187,Resume music,activate,music,none
+1188,Bring me the newspaper,bring,newspaper,none
+1189,Get me the newspaper,bring,newspaper,none
+1190,Bring the newspaper,bring,newspaper,none
+1191,Go get the newspaper,bring,newspaper,none
+1192,Fetch the newspaper,bring,newspaper,none
+1193,Bring me some juice,bring,juice,none
+1194,Get me some juice,bring,juice,none
+1195,Bring some juice,bring,juice,none
+1196,Bring juice,bring,juice,none
+1197,Go get me some juice,bring,juice,none
+1198,Get me my socks,bring,socks,none
+1199,Bring socks,bring,socks,none
+1200,Bring my socks,bring,socks,none
+1201,Go get me my socks,bring,socks,none
+1202,Fetch my socks,bring,socks,none
+1203,Bring me my shoes,bring,shoes,none
+1204,Get me my shoes,bring,shoes,none
+1205,Bring my shoes,bring,shoes,none
+1206,Go get me my shoes,bring,shoes,none
+1207,Fetch my shoes,bring,shoes,none
+1208,Allow a different language,change language,none,none
+1209,Use a different language,change language,none,none
+1210,Change the language,change language,none,none
+1211,Switch the language,change language,none,none
+1212,Switch language,change language,none,none
+1213,Switch languages,change language,none,none
+1214,Change system language,change language,none,none
+1215,Open language settings,change language,none,none
+1216,Set the language,change language,none,none
+1217,Set language to Chinese,change language,Chinese,none
+1218,Set language to German,change language,German,none
+1219,Set language to Korean,change language,Korean,none
+1220,Set language to English,change language,English,none
+1221,Set my device to Chinese,change language,Chinese,none
+1222,OK now switch the main language to Chinese,change language,Chinese,none
+1223,OK now switch the main language to German,change language,German,none
+1224,OK now switch the main language to Korean,change language,Korean,none
+1225,OK now switch the main language to English,change language,English,none
+1226,Set my phone's language to Chinese,change language,Chinese,none
+1227,Set my phone's language to German,change language,German,none
+1228,Set my phone's language to Korean,change language,Korean,none
+1229,Set my phone's language to English,change language,English,none
+1230,I need to practice my Chinese. Switch the language,change language,Chinese,none
+1231,I need to practice my German. Switch the language,change language,German,none
+1232,I need to practice my Korean. Switch the language,change language,Korean,none
+1233,I need to practice my English. Switch the language,change language,English,none
+1234,Turn the washroom lights off,deactivate,lights,washroom
+1235,Pause,deactivate,music,none
+1236,Turn on the lights,activate,lights,none
+1237,Turn off the lights,deactivate,lights,none
+1238,Change language,change language,none,none
+1239,Pause the music,deactivate,music,none
+1240,Resume,activate,music,none
+1241,Volume down,decrease,volume,none
+1242,Turn the lights on,activate,lights,none
+1243,Switch on the lights,activate,lights,none
+1244,Lights on,activate,lights,none
+1245,Switch off the lights,deactivate,lights,none
+1246,Turn the lights off,deactivate,lights,none
+1247,Lights off,deactivate,lights,none
+1248,Volume up,increase,volume,none
+1249,Turn up the volume,increase,volume,none
+1250,Turn the volume up,increase,volume,none
+1251,Make the music louder,increase,volume,none
+1252,Turn down the volume,decrease,volume,none
+1253,Turn the volume down,decrease,volume,none
+1254,Make the music softer,decrease,volume,none
+1255,Turn up the temperature,increase,heat,none
+1256,Turn the temperature up,increase,heat,none
+1257,Turn up the heat,increase,heat,none
+1258,Turn down the temperature,decrease,heat,none
+1259,Turn the temperature down,decrease,heat,none
+1260,Turn down the heat,decrease,heat,none
+1261,Turn the heat down,decrease,heat,none
+1262,Turn off the music,deactivate,music,none
+1263,Stop the music,deactivate,music,none
+1264,Play,activate,music,none
+1265,Put on the music,activate,music,none
+1266,Play the music,activate,music,none
+1267,Start the music,activate,music,none
+1268,Turn on the lamp,activate,lamp,none
+1269,Switch on the lamp,activate,lamp,none
+1270,Turn the lamp on,activate,lamp,none
+1271,Lamp on,activate,lamp,none
+1272,Turn off the lamp,deactivate,lamp,none
+1273,Turn the lamp off,deactivate,lamp,none
+1274,Switch off the lamp,deactivate,lamp,none
+1275,Lamp off,deactivate,lamp,none
+1276,Switch the lights on,activate,lights,none
+1277,Turn on the kitchen lights,activate,lights,kitchen
+1278,Switch on the kitchen lights,activate,lights,kitchen
+1279,Turn the lights on in the kitchen,activate,lights,kitchen
+1280,Switch on the lights in the kitchen,activate,lights,kitchen
+1281,Lights on in the kitchen,activate,lights,kitchen
+1282,Kitchen lights on,activate,lights,kitchen
+1283,Switch the kitchen lights on,activate,lights,kitchen
+1284,Turn the kitchen lights on,activate,lights,kitchen
+1285,Turn on the lights in the bedroom,activate,lights,bedroom
+1286,Turn on the lights,activate,lights,none
+1287,Turn off the lights,deactivate,lights,none
+1288,Change language,change language,none,none
+1289,Pause the music,deactivate,music,none
+1290,Resume,activate,music,none
+1291,Volume down,decrease,volume,none
+1292,Turn the lights on,activate,lights,none
+1293,Switch on the lights,activate,lights,none
+1294,Lights on,activate,lights,none
+1295,Switch off the lights,deactivate,lights,none
+1296,Turn the lights off,deactivate,lights,none
+1297,Lights off,deactivate,lights,none
+1298,Volume up,increase,volume,none
+1299,Turn up the volume,increase,volume,none
+1300,Turn the volume up,increase,volume,none
+1301,Make the music louder,increase,volume,none
+1302,Turn down the volume,decrease,volume,none
+1303,Turn the volume down,decrease,volume,none
+1304,Make the music softer,decrease,volume,none
+1305,Turn up the temperature,increase,heat,none
+1306,Turn the temperature up,increase,heat,none
+1307,Turn up the heat,increase,heat,none
+1308,Turn the heat up,increase,heat,none
+1309,Turn down the temperature,decrease,heat,none
+1310,Turn the temperature down,decrease,heat,none
+1311,Turn down the heat,decrease,heat,none
+1312,Turn the heat down,decrease,heat,none
+1313,Turn off the music,deactivate,music,none
+1314,Stop the music,deactivate,music,none
+1315,Play,activate,music,none
+1316,Put on the music,activate,music,none
+1317,Play the music,activate,music,none
+1318,Start the music,activate,music,none
+1319,Turn on the lamp,activate,lamp,none
+1320,Switch on the lamp,activate,lamp,none
+1321,Turn the lamp on,activate,lamp,none
+1322,Lamp on,activate,lamp,none
+1323,Turn off the lamp,deactivate,lamp,none
+1324,Turn the lamp off,deactivate,lamp,none
+1325,Switch off the lamp,deactivate,lamp,none
+1326,Lamp off,deactivate,lamp,none
+1327,Switch the lights on,activate,lights,none
+1328,Turn on the kitchen lights,activate,lights,kitchen
+1329,Switch on the kitchen lights,activate,lights,kitchen
+1330,Turn the lights on in the kitchen,activate,lights,kitchen
+1331,Switch on the lights in the kitchen,activate,lights,kitchen
+1332,Lights on in the kitchen,activate,lights,kitchen
+1333,Kitchen lights on,activate,lights,kitchen
+1334,Switch the kitchen lights on,activate,lights,kitchen
+1335,Turn the kitchen lights on,activate,lights,kitchen
+1336,Turn on the lights in the bedroom,activate,lights,bedroom
+1337,Switch on the lights in the bedroom,activate,lights,bedroom
+1338,Switch the bedroom lights on,activate,lights,bedroom
+1339,Lights on in the bedroom,activate,lights,bedroom
+1340,Bedroom lights on,activate,lights,bedroom
+1341,Turn on the washroom lights,activate,lights,washroom
+1342,Turn the washroom lights on,activate,lights,washroom
+1343,Switch on the washroom lights,activate,lights,washroom
+1344,Washroom lights on,activate,lights,washroom
+1345,Turn on the bathroom lights,activate,lights,washroom
+1346,Turn the bathroom lights on,activate,lights,washroom
+1347,Switch on the bathroom lights,activate,lights,washroom
+1348,Lights on in the bathroom,activate,lights,washroom
+1349,Bathroom lights on,activate,lights,washroom
+1350,Switch the lights off,deactivate,lights,none
+1351,Turn off the kitchen lights,deactivate,lights,kitchen
+1352,Turn the lights off in the kitchen,deactivate,lights,kitchen
+1353,Switch off the lights in the kitchen,deactivate,lights,kitchen
+1354,Switch the lights off in the kitchen,deactivate,lights,kitchen
+1355,Lights off in the kitchen,deactivate,lights,kitchen
+1356,Kitchen lights off,deactivate,lights,kitchen
+1357,Turn off the lights in the bedroom,deactivate,lights,bedroom
+1358,Turn the bedroom lights off,deactivate,lights,bedroom
+1359,Switch off the lights in the bedroom,deactivate,lights,bedroom
+1360,Switch the bedroom lights off,deactivate,lights,bedroom
+1361,Lights off in the bedroom,deactivate,lights,bedroom
+1362,Bedroom lights off,deactivate,lights,bedroom
+1363,Turn off the washroom lights,deactivate,lights,washroom
+1364,Switch off the washroom lights,deactivate,lights,washroom
+1365,Lights off in the washroom,deactivate,lights,washroom
+1366,Washroom lights off,deactivate,lights,washroom
+1367,Turn volume up,increase,volume,none
+1368,Turn sound up,increase,volume,none
+1369,Turn it up,increase,volume,none
+1370,Make it louder,increase,volume,none
+1371,Louder,increase,volume,none
+1372,Volume max,increase,volume,none
+1373,Louder please,increase,volume,none
+1374,Increase the volume,increase,volume,none
+1375,Increase the sound volume,increase,volume,none
+1376,I need volume,increase,volume,none
+1377,Increase the sound,increase,volume,none
+1378,Louder phone,increase,volume,none
+1379,I can't hear that,increase,volume,none
+1380,Too quiet,increase,volume,none
+1381,That's too quiet,increase,volume,none
+1382,Far too quiet,increase,volume,none
+1383,Turn the sound up,increase,volume,none
+1384,"I need to hear this, increase the volume",increase,volume,none
+1385,"I couldn't hear anything, turn up the volume",increase,volume,none
+1386,"This video sound is too low, turn up the volume",increase,volume,none
+1387,Decrease volume,decrease,volume,none
+1388,Turn volume down,decrease,volume,none
+1389,Turn sound down,decrease,volume,none
+1390,Decrease audio volume,decrease,volume,none
+1391,Reduce audio volume,decrease,volume,none
+1392,Turn it down,decrease,volume,none
+1393,Quieter,decrease,volume,none
+1394,Volume mute,decrease,volume,none
+1395,Lower the volume,decrease,volume,none
+1396,Volume lower,decrease,volume,none
+1397,Decrease the volume,decrease,volume,none
+1398,Decrease sound levels,decrease,volume,none
+1399,Too loud,decrease,volume,none
+1400,That’s too loud,decrease,volume,none
+1401,Far too loud,decrease,volume,none
+1402,Make it quieter,decrease,volume,none
+1403,"It’s too loud, turn it down",decrease,volume,none
+1404,"It’s too loud, turn the volume down",decrease,volume,none
+1405,Increase the temperature,increase,heat,none
+1406,Increase the heating,increase,heat,none
+1407,Could you increase the heating?,increase,heat,none
+1408,Could you increase the heating please?,increase,heat,none
+1409,Make it hotter,increase,heat,none
+1410,More heat,increase,heat,none
+1411,Heat up,increase,heat,none
+1412,Turn up the temperature in the kitchen,increase,heat,kitchen
+1413,Turn the kitchen temperature up,increase,heat,kitchen
+1414,Increase the temperature in the kitchen,increase,heat,kitchen
+1415,Increase the heating in the kitchen,increase,heat,kitchen
+1416,Turn up the heat in the kitchen,increase,heat,kitchen
+1417,Turn the heat up in the kitchen,increase,heat,kitchen
+1418,Kitchen heat up,increase,heat,kitchen
+1419,Turn up the temperature in the bedroom,increase,heat,bedroom
+1420,Turn the temperature in the bedroom up,increase,heat,bedroom
+1421,Turn up the bedroom heat,increase,heat,bedroom
+1422,Turn the bedroom heat up,increase,heat,bedroom
+1423,Bedroom heat up,increase,heat,bedroom
+1424,Increase the temperature in the bedroom,increase,heat,bedroom
+1425,Increase the heating in the bedroom,increase,heat,bedroom
+1426,Turn up the washroom temperature,increase,heat,washroom
+1427,Turn the temperature up in the washroom,increase,heat,washroom
+1428,Turn up the heat in the washroom,increase,heat,washroom
+1429,Turn the heat up in the washroom,increase,heat,washroom
+1430,Washroom heat up,increase,heat,washroom
+1431,Increase the temperature in the washroom,increase,heat,washroom
+1432,Increase the heating in the washroom,increase,heat,washroom
+1433,Turn up the bathroom temperature,increase,heat,washroom
+1434,Turn the temperature up in the bathroom,increase,heat,washroom
+1435,Turn up the heat in the bathroom,increase,heat,washroom
+1436,Turn the heat up in the bathroom,increase,heat,washroom
+1437,Bathroom heat up,increase,heat,washroom
+1438,Increase the temperature in the bathroom,increase,heat,washroom
+1439,Increase the heating in the bathroom,increase,heat,washroom
+1440,Make it cooler,decrease,heat,none
+1441,Less heat,decrease,heat,none
+1442,Heat down,decrease,heat,none
+1443,Decrease the temperature,decrease,heat,none
+1444,Decrease the heating,decrease,heat,none
+1445,Could you decrease the heating?,decrease,heat,none
+1446,Could you decrease the heating please?,decrease,heat,none
+1447,Turn down the temperature in the kitchen,decrease,heat,kitchen
+1448,Turn the kitchen temperature down,decrease,heat,kitchen
+1449,Turn down the heat in the kitchen,decrease,heat,kitchen
+1450,Turn the heat down in the kitchen,decrease,heat,kitchen
+1451,Kitchen heat down,decrease,heat,kitchen
+1452,Decrease the temperature in the kitchen,decrease,heat,kitchen
+1453,Decrease the heating in the kitchen,decrease,heat,kitchen
+1454,Turn down the temperature in the bedroom,decrease,heat,bedroom
+1455,Turn the temperature in the bedroom down,decrease,heat,bedroom
+1456,Turn down the bedroom heat,decrease,heat,bedroom
+1457,Turn the bedroom heat down,decrease,heat,bedroom
+1458,Bedroom heat down,decrease,heat,bedroom
+1459,Decrease the temperature in the bedroom,decrease,heat,bedroom
+1460,Decrease the heating in the bedroom,decrease,heat,bedroom
+1461,Turn down the washroom temperature,decrease,heat,washroom
+1462,Turn the temperature down in the washroom,decrease,heat,washroom
+1463,Turn down the heat in the washroom,decrease,heat,washroom
+1464,Turn the heat down in the washroom,decrease,heat,washroom
+1465,Decrease the temperature in the washroom,decrease,heat,washroom
+1466,Decrease the heating in the washroom,decrease,heat,washroom
+1467,Washroom heat down,decrease,heat,washroom
+1468,Turn down the bathroom temperature,decrease,heat,washroom
+1469,Turn the temperature down in the bathroom,decrease,heat,washroom
+1470,Turn down the heat in the bathroom,decrease,heat,washroom
+1471,Turn the heat down in the bathroom,decrease,heat,washroom
+1472,Decrease the heating in the bathroom,decrease,heat,washroom
+1473,Bathroom heat down,decrease,heat,washroom
+1474,Pause music,deactivate,music,none
+1475,Stop music,deactivate,music,none
+1476,Stop,deactivate,music,none
+1477,Play music,activate,music,none
+1478,Resume music,activate,music,none
+1479,Bring me the newspaper,bring,newspaper,none
+1480,Get me the newspaper,bring,newspaper,none
+1481,Bring the newspaper,bring,newspaper,none
+1482,Bring newspaper,bring,newspaper,none
+1483,Turn on the lights,activate,lights,none
+1484,Change language,change language,none,none
+1485,Pause the music,deactivate,music,none
+1486,Resume,activate,music,none
+1487,Turn the lights on,activate,lights,none
+1488,Switch on the lights,activate,lights,none
+1489,Lights on,activate,lights,none
+1490,Switch off the lights,deactivate,lights,none
+1491,Turn the lights off,deactivate,lights,none
+1492,Lights off,deactivate,lights,none
+1493,Volume up,increase,volume,none
+1494,Turn up the volume,increase,volume,none
+1495,Turn the volume up,increase,volume,none
+1496,Make the music louder,increase,volume,none
+1497,Turn down the volume,decrease,volume,none
+1498,Turn the volume down,decrease,volume,none
+1499,Make the music softer,decrease,volume,none
+1500,Turn up the temperature,increase,heat,none
+1501,Turn the temperature up,increase,heat,none
+1502,Turn up the heat,increase,heat,none
+1503,Turn the heat up,increase,heat,none
+1504,Turn down the temperature,decrease,heat,none
+1505,Turn the temperature down,decrease,heat,none
+1506,Turn down the heat,decrease,heat,none
+1507,Turn the heat down,decrease,heat,none
+1508,Turn off the music,deactivate,music,none
+1509,Stop the music,deactivate,music,none
+1510,Play,activate,music,none
+1511,Put on the music,activate,music,none
+1512,Play the music,activate,music,none
+1513,Start the music,activate,music,none
+1514,Turn on the lamp,activate,lamp,none
+1515,Switch on the lamp,activate,lamp,none
+1516,Turn the lamp on,activate,lamp,none
+1517,Lamp on,activate,lamp,none
+1518,Turn off the lamp,deactivate,lamp,none
+1519,Turn the lamp off,deactivate,lamp,none
+1520,Switch off the lamp,deactivate,lamp,none
+1521,Lamp off,deactivate,lamp,none
+1522,Switch the lights on,activate,lights,none
+1523,Turn on the kitchen lights,activate,lights,kitchen
+1524,Switch on the kitchen lights,activate,lights,kitchen
+1525,Turn the lights on in the kitchen,activate,lights,kitchen
+1526,Switch on the lights in the kitchen,activate,lights,kitchen
+1527,Lights on in the kitchen,activate,lights,kitchen
+1528,Kitchen lights on,activate,lights,kitchen
+1529,Switch the kitchen lights on,activate,lights,kitchen
+1530,Turn the kitchen lights on,activate,lights,kitchen
+1531,Turn on the lights in the bedroom,activate,lights,bedroom
+1532,Turn the bedroom lights on,activate,lights,bedroom
+1533,Switch on the lights in the bedroom,activate,lights,bedroom
+1534,Switch the bedroom lights on,activate,lights,bedroom
+1535,Lights on in the bedroom,activate,lights,bedroom
+1536,Bedroom lights on,activate,lights,bedroom
+1537,Turn on the washroom lights,activate,lights,washroom
+1538,Turn the washroom lights on,activate,lights,washroom
+1539,Switch on the washroom lights,activate,lights,washroom
+1540,Lights on in the washroom,activate,lights,washroom
+1541,Washroom lights on,activate,lights,washroom
+1542,Turn on the bathroom lights,activate,lights,washroom
+1543,Turn the bathroom lights on,activate,lights,washroom
+1544,Switch on the bathroom lights,activate,lights,washroom
+1545,Lights on in the bathroom,activate,lights,washroom
+1546,Bathroom lights on,activate,lights,washroom
+1547,Switch the lights off,deactivate,lights,none
+1548,Turn off the kitchen lights,deactivate,lights,kitchen
+1549,Turn the lights off in the kitchen,deactivate,lights,kitchen
+1550,Switch off the lights in the kitchen,deactivate,lights,kitchen
+1551,Switch the lights off in the kitchen,deactivate,lights,kitchen
+1552,Lights off in the kitchen,deactivate,lights,kitchen
+1553,Kitchen lights off,deactivate,lights,kitchen
+1554,Turn off the lights in the bedroom,deactivate,lights,bedroom
+1555,Turn the bedroom lights off,deactivate,lights,bedroom
+1556,Switch off the lights in the bedroom,deactivate,lights,bedroom
+1557,Switch the bedroom lights off,deactivate,lights,bedroom
+1558,Lights off in the bedroom,deactivate,lights,bedroom
+1559,Bedroom lights off,deactivate,lights,bedroom
+1560,Turn off the washroom lights,deactivate,lights,washroom
+1561,Switch off the washroom lights,deactivate,lights,washroom
+1562,Lights off in the washroom,deactivate,lights,washroom
+1563,Washroom lights off,deactivate,lights,washroom
+1564,Turn volume up,increase,volume,none
+1565,Turn sound up,increase,volume,none
+1566,Turn it up,increase,volume,none
+1567,Make it louder,increase,volume,none
+1568,Louder,increase,volume,none
+1569,Volume max,increase,volume,none
+1570,Louder please,increase,volume,none
+1571,Increase the volume,increase,volume,none
+1572,Increase the sound volume,increase,volume,none
+1573,I need volume,increase,volume,none
+1574,Increase the sound,increase,volume,none
+1575,Louder phone,increase,volume,none
+1576,I can't hear that,increase,volume,none
+1577,Too quiet,increase,volume,none
+1578,That's too quiet,increase,volume,none
+1579,Far too quiet,increase,volume,none
+1580,Turn the sound up,increase,volume,none
+1581,"I need to hear this, increase the volume",increase,volume,none
+1582,"I couldn't hear anything, turn up the volume",increase,volume,none
+1583,"This video sound is too low, turn up the volume",increase,volume,none
+1584,Decrease volume,decrease,volume,none
+1585,Turn volume down,decrease,volume,none
+1586,Turn sound down,decrease,volume,none
+1587,Decrease audio volume,decrease,volume,none
+1588,Reduce audio volume,decrease,volume,none
+1589,Turn it down,decrease,volume,none
+1590,Quieter,decrease,volume,none
+1591,Volume mute,decrease,volume,none
+1592,Lower the volume,decrease,volume,none
+1593,Volume lower,decrease,volume,none
+1594,Decrease the volume,decrease,volume,none
+1595,Decrease sound levels,decrease,volume,none
+1596,Too loud,decrease,volume,none
+1597,That’s too loud,decrease,volume,none
+1598,Far too loud,decrease,volume,none
+1599,Make it quieter,decrease,volume,none
+1600,"It’s too loud, turn it down",decrease,volume,none
+1601,"It’s too loud, turn the volume down",decrease,volume,none
+1602,Increase the temperature,increase,heat,none
+1603,Increase the heating,increase,heat,none
+1604,Could you increase the heating?,increase,heat,none
+1605,Could you increase the heating please?,increase,heat,none
+1606,Make it hotter,increase,heat,none
+1607,More heat,increase,heat,none
+1608,Heat up,increase,heat,none
+1609,Turn up the temperature in the kitchen,increase,heat,kitchen
+1610,Turn the kitchen temperature up,increase,heat,kitchen
+1611,Increase the temperature in the kitchen,increase,heat,kitchen
+1612,Increase the heating in the kitchen,increase,heat,kitchen
+1613,Turn up the heat in the kitchen,increase,heat,kitchen
+1614,Turn the heat up in the kitchen,increase,heat,kitchen
+1615,Kitchen heat up,increase,heat,kitchen
+1616,Turn up the temperature in the bedroom,increase,heat,bedroom
+1617,Turn the temperature in the bedroom up,increase,heat,bedroom
+1618,Turn the bedroom heat up,increase,heat,bedroom
+1619,Increase the temperature in the bedroom,increase,heat,bedroom
+1620,Increase the heating in the bedroom,increase,heat,bedroom
+1621,Turn up the washroom temperature,increase,heat,washroom
+1622,Turn the temperature up in the washroom,increase,heat,washroom
+1623,Turn up the heat in the washroom,increase,heat,washroom
+1624,Turn the heat up in the washroom,increase,heat,washroom
+1625,Washroom heat up,increase,heat,washroom
+1626,Increase the temperature in the washroom,increase,heat,washroom
+1627,Increase the heating in the washroom,increase,heat,washroom
+1628,Turn up the bathroom temperature,increase,heat,washroom
+1629,Turn the temperature up in the bathroom,increase,heat,washroom
+1630,Turn up the heat in the bathroom,increase,heat,washroom
+1631,Turn the heat up in the bathroom,increase,heat,washroom
+1632,Bathroom heat up,increase,heat,washroom
+1633,Increase the temperature in the bathroom,increase,heat,washroom
+1634,Increase the heating in the bathroom,increase,heat,washroom
+1635,Make it cooler,decrease,heat,none
+1636,Less heat,decrease,heat,none
+1637,Heat down,decrease,heat,none
+1638,Decrease the temperature,decrease,heat,none
+1639,Decrease the heating,decrease,heat,none
+1640,Could you decrease the heating?,decrease,heat,none
+1641,Could you decrease the heating please?,decrease,heat,none
+1642,Turn down the temperature in the kitchen,decrease,heat,kitchen
+1643,Turn the kitchen temperature down,decrease,heat,kitchen
+1644,Turn down the heat in the kitchen,decrease,heat,kitchen
+1645,Turn the heat down in the kitchen,decrease,heat,kitchen
+1646,Kitchen heat down,decrease,heat,kitchen
+1647,Decrease the temperature in the kitchen,decrease,heat,kitchen
+1648,Decrease the heating in the kitchen,decrease,heat,kitchen
+1649,Turn down the temperature in the bedroom,decrease,heat,bedroom
+1650,Turn the bedroom heat down,decrease,heat,bedroom
+1651,Bedroom heat down,decrease,heat,bedroom
+1652,Decrease the temperature in the bedroom,decrease,heat,bedroom
+1653,Decrease the heating in the bedroom,decrease,heat,bedroom
+1654,Turn down the washroom temperature,decrease,heat,washroom
+1655,Turn the temperature down in the washroom,decrease,heat,washroom
+1656,Turn down the heat in the washroom,decrease,heat,washroom
+1657,Turn the heat down in the washroom,decrease,heat,washroom
+1658,Decrease the temperature in the washroom,decrease,heat,washroom
+1659,Decrease the heating in the washroom,decrease,heat,washroom
+1660,Washroom heat down,decrease,heat,washroom
+1661,Turn down the bathroom temperature,decrease,heat,washroom
+1662,Turn the temperature down in the bathroom,decrease,heat,washroom
+1663,Turn down the heat in the bathroom,decrease,heat,washroom
+1664,Turn the heat down in the bathroom,decrease,heat,washroom
+1665,Decrease the temperature in the bathroom,decrease,heat,washroom
+1666,Decrease the heating in the bathroom,decrease,heat,washroom
+1667,Bathroom heat down,decrease,heat,washroom
+1668,Pause music,deactivate,music,none
+1669,Stop music,deactivate,music,none
+1670,Play music,activate,music,none
+1671,Resume music,activate,music,none
+1672,Bring me the newspaper,bring,newspaper,none
+1673,Get me the newspaper,bring,newspaper,none
+1674,Bring newspaper,bring,newspaper,none
+1675,Fetch the newspaper,bring,newspaper,none
+1676,Bring me some juice,bring,juice,none
+1677,Bring some juice,bring,juice,none
+1678,Bring juice,bring,juice,none
+1679,Go get me some juice,bring,juice,none
+1680,Bring me my socks,bring,socks,none
+1681,Get me my socks,bring,socks,none
+1682,Bring socks,bring,socks,none
+1683,Go get me my socks,bring,socks,none
+1684,Fetch my socks,bring,socks,none
+1685,Bring me my shoes,bring,shoes,none
+1686,Get me my shoes,bring,shoes,none
+1687,Bring shoes,bring,shoes,none
+1688,Bring my shoes,bring,shoes,none
+1689,Go get me my shoes,bring,shoes,none
+1690,Fetch my shoes,bring,shoes,none
+1691,Allow a different language,change language,none,none
+1692,Use a different language,change language,none,none
+1693,Change the language,change language,none,none
+1694,Switch the language,change language,none,none
+1695,Switch language,change language,none,none
+1696,Change system language,change language,none,none
+1697,Open language settings,change language,none,none
+1698,Set the language,change language,none,none
+1699,Language settings,change language,none,none
+1700,Set language to Chinese,change language,Chinese,none
+1701,Set language to German,change language,German,none
+1702,Set language to Korean,change language,Korean,none
+1703,Set language to English,change language,English,none
+1704,Set my device to Chinese,change language,Chinese,none
+1705,OK now switch the main language to Chinese,change language,Chinese,none
+1706,OK now switch the main language to German,change language,German,none
+1707,OK now switch the main language to Korean,change language,Korean,none
+1708,OK now switch the main language to English,change language,English,none
+1709,Set my phone's language to Chinese,change language,Chinese,none
+1710,Set my phone's language to German,change language,German,none
+1711,Set my phone's language to Korean,change language,Korean,none
+1712,Set my phone's language to English,change language,English,none
+1713,I need to practice my Chinese. Switch the language,change language,Chinese,none
+1714,I need to practice my German. Switch the language,change language,German,none
+1715,I need to practice my Korean. Switch the language,change language,Korean,none
+1716,I need to practice my English. Switch the language,change language,English,none
+1717,Turn the washroom lights off,deactivate,lights,washroom
+1718,Pause,deactivate,music,none
+1719,Turn on the lights,activate,lights,none
+1720,Turn off the lights,deactivate,lights,none
+1721,Change language,change language,none,none
+1722,Pause the music,deactivate,music,none
+1723,Resume,activate,music,none
+1724,Volume down,decrease,volume,none
+1725,Turn the lights on,activate,lights,none
+1726,Switch on the lights,activate,lights,none
+1727,Lights on,activate,lights,none
+1728,Switch off the lights,deactivate,lights,none
+1729,Turn the lights off,deactivate,lights,none
+1730,Lights off,deactivate,lights,none
+1731,Volume up,increase,volume,none
+1732,Turn up the volume,increase,volume,none
+1733,Turn the volume up,increase,volume,none
+1734,Make the music louder,increase,volume,none
+1735,Turn down the volume,decrease,volume,none
+1736,Turn the volume down,decrease,volume,none
+1737,Make the music softer,decrease,volume,none
+1738,Turn up the temperature,increase,heat,none
+1739,Turn the temperature up,increase,heat,none
+1740,Turn up the heat,increase,heat,none
+1741,Turn the heat up,increase,heat,none
+1742,Turn down the temperature,decrease,heat,none
+1743,Turn the temperature down,decrease,heat,none
+1744,Turn down the heat,decrease,heat,none
+1745,Turn the heat down,decrease,heat,none
+1746,Turn off the music,deactivate,music,none
+1747,Stop the music,deactivate,music,none
+1748,Play,activate,music,none
+1749,Put on the music,activate,music,none
+1750,Play the music,activate,music,none
+1751,Start the music,activate,music,none
+1752,Turn on the lamp,activate,lamp,none
+1753,Switch on the lamp,activate,lamp,none
+1754,Turn the lamp on,activate,lamp,none
+1755,Lamp on,activate,lamp,none
+1756,Turn off the lamp,deactivate,lamp,none
+1757,Turn the lamp off,deactivate,lamp,none
+1758,Switch off the lamp,deactivate,lamp,none
+1759,Switch the lights on,activate,lights,none
+1760,Turn on the kitchen lights,activate,lights,kitchen
+1761,Switch on the kitchen lights,activate,lights,kitchen
+1762,Turn the lights on in the kitchen,activate,lights,kitchen
+1763,Switch on the lights in the kitchen,activate,lights,kitchen
+1764,Lights on in the kitchen,activate,lights,kitchen
+1765,Kitchen lights on,activate,lights,kitchen
+1766,Switch the kitchen lights on,activate,lights,kitchen
+1767,Turn the kitchen lights on,activate,lights,kitchen
+1768,Turn on the lights in the bedroom,activate,lights,bedroom
+1769,Turn the bedroom lights on,activate,lights,bedroom
+1770,Switch on the lights in the bedroom,activate,lights,bedroom
+1771,Switch the bedroom lights on,activate,lights,bedroom
+1772,Lights on in the bedroom,activate,lights,bedroom
+1773,Bedroom lights on,activate,lights,bedroom
+1774,Turn on the washroom lights,activate,lights,washroom
+1775,Turn the washroom lights on,activate,lights,washroom
+1776,Switch on the washroom lights,activate,lights,washroom
+1777,Lights on in the washroom,activate,lights,washroom
+1778,Washroom lights on,activate,lights,washroom
+1779,Turn on the bathroom lights,activate,lights,washroom
+1780,Turn the bathroom lights on,activate,lights,washroom
+1781,Switch on the bathroom lights,activate,lights,washroom
+1782,Lights on in the bathroom,activate,lights,washroom
+1783,Bathroom lights on,activate,lights,washroom
+1784,Switch the lights off,deactivate,lights,none
+1785,Turn off the kitchen lights,deactivate,lights,kitchen
+1786,Turn the lights off in the kitchen,deactivate,lights,kitchen
+1787,Switch off the lights in the kitchen,deactivate,lights,kitchen
+1788,Switch the lights off in the kitchen,deactivate,lights,kitchen
+1789,Lights off in the kitchen,deactivate,lights,kitchen
+1790,Kitchen lights off,deactivate,lights,kitchen
+1791,Turn off the lights in the bedroom,deactivate,lights,bedroom
+1792,Turn the bedroom lights off,deactivate,lights,bedroom
+1793,Switch off the lights in the bedroom,deactivate,lights,bedroom
+1794,Switch the bedroom lights off,deactivate,lights,bedroom
+1795,Lights off in the bedroom,deactivate,lights,bedroom
+1796,Bedroom lights off,deactivate,lights,bedroom
+1797,Turn off the washroom lights,deactivate,lights,washroom
+1798,Switch off the washroom lights,deactivate,lights,washroom
+1799,Lights off in the washroom,deactivate,lights,washroom
+1800,Washroom lights off,deactivate,lights,washroom
+1801,Turn volume up,increase,volume,none
+1802,Turn sound up,increase,volume,none
+1803,Turn it up,increase,volume,none
+1804,Make it louder,increase,volume,none
+1805,Louder,increase,volume,none
+1806,Volume max,increase,volume,none
+1807,Louder please,increase,volume,none
+1808,Increase the volume,increase,volume,none
+1809,Increase the sound volume,increase,volume,none
+1810,I need volume,increase,volume,none
+1811,Increase the sound,increase,volume,none
+1812,Louder phone,increase,volume,none
+1813,I can't hear that,increase,volume,none
+1814,Too quiet,increase,volume,none
+1815,That's too quiet,increase,volume,none
+1816,Far too quiet,increase,volume,none
+1817,Turn the sound up,increase,volume,none
+1818,"I need to hear this, increase the volume",increase,volume,none
+1819,"I couldn't hear anything, turn up the volume",increase,volume,none
+1820,"This video sound is too low, turn up the volume",increase,volume,none
+1821,Decrease volume,decrease,volume,none
+1822,Turn volume down,decrease,volume,none
+1823,Turn sound down,decrease,volume,none
+1824,Decrease audio volume,decrease,volume,none
+1825,Reduce audio volume,decrease,volume,none
+1826,Turn it down,decrease,volume,none
+1827,Quieter,decrease,volume,none
+1828,Volume mute,decrease,volume,none
+1829,Lower the volume,decrease,volume,none
+1830,Volume lower,decrease,volume,none
+1831,Decrease the volume,decrease,volume,none
+1832,Decrease sound levels,decrease,volume,none
+1833,Too loud,decrease,volume,none
+1834,That’s too loud,decrease,volume,none
+1835,Far too loud,decrease,volume,none
+1836,Make it quieter,decrease,volume,none
+1837,"It’s too loud, turn it down",decrease,volume,none
+1838,"It’s too loud, turn the volume down",decrease,volume,none
+1839,Increase the temperature,increase,heat,none
+1840,Increase the heating,increase,heat,none
+1841,Could you increase the heating?,increase,heat,none
+1842,Could you increase the heating please?,increase,heat,none
+1843,Make it hotter,increase,heat,none
+1844,More heat,increase,heat,none
+1845,Heat up,increase,heat,none
+1846,Turn up the temperature in the kitchen,increase,heat,kitchen
+1847,Turn the kitchen temperature up,increase,heat,kitchen
+1848,Increase the temperature in the kitchen,increase,heat,kitchen
+1849,Increase the heating in the kitchen,increase,heat,kitchen
+1850,Turn up the heat in the kitchen,increase,heat,kitchen
+1851,Turn the heat up in the kitchen,increase,heat,kitchen
+1852,Kitchen heat up,increase,heat,kitchen
+1853,Turn up the temperature in the bedroom,increase,heat,bedroom
+1854,Turn the temperature in the bedroom up,increase,heat,bedroom
+1855,Turn up the bedroom heat,increase,heat,bedroom
+1856,Turn the bedroom heat up,increase,heat,bedroom
+1857,Bedroom heat up,increase,heat,bedroom
+1858,Increase the temperature in the bedroom,increase,heat,bedroom
+1859,Increase the heating in the bedroom,increase,heat,bedroom
+1860,Turn up the washroom temperature,increase,heat,washroom
+1861,Turn the temperature up in the washroom,increase,heat,washroom
+1862,Turn up the heat in the washroom,increase,heat,washroom
+1863,Turn the heat up in the washroom,increase,heat,washroom
+1864,Washroom heat up,increase,heat,washroom
+1865,Increase the temperature in the washroom,increase,heat,washroom
+1866,Increase the heating in the washroom,increase,heat,washroom
+1867,Turn up the bathroom temperature,increase,heat,washroom
+1868,Turn the temperature up in the bathroom,increase,heat,washroom
+1869,Turn up the heat in the bathroom,increase,heat,washroom
+1870,Turn the heat up in the bathroom,increase,heat,washroom
+1871,Bathroom heat up,increase,heat,washroom
+1872,Increase the temperature in the bathroom,increase,heat,washroom
+1873,Increase the heating in the bathroom,increase,heat,washroom
+1874,Make it cooler,decrease,heat,none
+1875,Less heat,decrease,heat,none
+1876,Heat down,decrease,heat,none
+1877,Decrease the temperature,decrease,heat,none
+1878,Decrease the heating,decrease,heat,none
+1879,Could you decrease the heating?,decrease,heat,none
+1880,Could you decrease the heating please?,decrease,heat,none
+1881,Turn down the temperature in the kitchen,decrease,heat,kitchen
+1882,Turn the kitchen temperature down,decrease,heat,kitchen
+1883,Turn down the heat in the kitchen,decrease,heat,kitchen
+1884,Turn the heat down in the kitchen,decrease,heat,kitchen
+1885,Kitchen heat down,decrease,heat,kitchen
+1886,Decrease the temperature in the kitchen,decrease,heat,kitchen
+1887,Decrease the heating in the kitchen,decrease,heat,kitchen
+1888,Turn down the temperature in the bedroom,decrease,heat,bedroom
+1889,Turn the temperature in the bedroom down,decrease,heat,bedroom
+1890,Turn the bedroom heat down,decrease,heat,bedroom
+1891,Bedroom heat down,decrease,heat,bedroom
+1892,Decrease the temperature in the bedroom,decrease,heat,bedroom
+1893,Decrease the heating in the bedroom,decrease,heat,bedroom
+1894,Turn down the washroom temperature,decrease,heat,washroom
+1895,Turn the temperature down in the washroom,decrease,heat,washroom
+1896,Turn down the heat in the washroom,decrease,heat,washroom
+1897,Turn the heat down in the washroom,decrease,heat,washroom
+1898,Decrease the temperature in the washroom,decrease,heat,washroom
+1899,Decrease the heating in the washroom,decrease,heat,washroom
+1900,Washroom heat down,decrease,heat,washroom
+1901,Turn down the bathroom temperature,decrease,heat,washroom
+1902,Turn the temperature down in the bathroom,decrease,heat,washroom
+1903,Turn down the heat in the bathroom,decrease,heat,washroom
+1904,Turn the heat down in the bathroom,decrease,heat,washroom
+1905,Decrease the temperature in the bathroom,decrease,heat,washroom
+1906,Decrease the heating in the bathroom,decrease,heat,washroom
+1907,Bathroom heat down,decrease,heat,washroom
+1908,Pause music,deactivate,music,none
+1909,Stop music,deactivate,music,none
+1910,Stop,deactivate,music,none
+1911,Play music,activate,music,none
+1912,Resume music,activate,music,none
+1913,Bring me the newspaper,bring,newspaper,none
+1914,Get me the newspaper,bring,newspaper,none
+1915,Bring the newspaper,bring,newspaper,none
+1916,Bring newspaper,bring,newspaper,none
+1917,Go get the newspaper,bring,newspaper,none
+1918,Fetch the newspaper,bring,newspaper,none
+1919,Bring me some juice,bring,juice,none
+1920,Get me some juice,bring,juice,none
+1921,Bring some juice,bring,juice,none
+1922,Bring juice,bring,juice,none
+1923,Go get me some juice,bring,juice,none
+1924,Bring me my socks,bring,socks,none
+1925,Get me my socks,bring,socks,none
+1926,Bring socks,bring,socks,none
+1927,Bring my socks,bring,socks,none
+1928,Go get me my socks,bring,socks,none
+1929,Fetch my socks,bring,socks,none
+1930,Bring me my shoes,bring,shoes,none
+1931,Get me my shoes,bring,shoes,none
+1932,Bring shoes,bring,shoes,none
+1933,Bring my shoes,bring,shoes,none
+1934,Go get me my shoes,bring,shoes,none
+1935,Fetch my shoes,bring,shoes,none
+1936,Allow a different language,change language,none,none
+1937,Use a different language,change language,none,none
+1938,Change the language,change language,none,none
+1939,Switch the language,change language,none,none
+1940,Switch language,change language,none,none
+1941,Switch languages,change language,none,none
+1942,Change system language,change language,none,none
+1943,Open language settings,change language,none,none
+1944,Set the language,change language,none,none
+1945,Language settings,change language,none,none
+1946,Set language to Chinese,change language,Chinese,none
+1947,Set language to German,change language,German,none
+1948,Set language to Korean,change language,Korean,none
+1949,Set language to English,change language,English,none
+1950,Set my device to Chinese,change language,Chinese,none
+1951,OK now switch the main language to Chinese,change language,Chinese,none
+1952,OK now switch the main language to German,change language,German,none
+1953,OK now switch the main language to Korean,change language,Korean,none
+1954,OK now switch the main language to English,change language,English,none
+1955,Set my phone's language to Chinese,change language,Chinese,none
+1956,Set my phone's language to German,change language,German,none
+1957,Set my phone's language to Korean,change language,Korean,none
+1958,Set my phone's language to English,change language,English,none
+1959,I need to practice my Chinese. Switch the language,change language,Chinese,none
+1960,I need to practice my German. Switch the language,change language,German,none
+1961,I need to practice my Korean. Switch the language,change language,Korean,none
+1962,I need to practice my English. Switch the language,change language,English,none
+1963,Turn the washroom lights off,deactivate,lights,washroom
+1964,Turn on the lights,activate,lights,none
+1965,Turn off the lights,deactivate,lights,none
+1966,Change language,change language,none,none
+1967,Pause the music,deactivate,music,none
+1968,Resume,activate,music,none
+1969,Volume down,decrease,volume,none
+1970,Turn the lights on,activate,lights,none
+1971,Switch on the lights,activate,lights,none
+1972,Lights on,activate,lights,none
+1973,Switch off the lights,deactivate,lights,none
+1974,Turn the lights off,deactivate,lights,none
+1975,Lights off,deactivate,lights,none
+1976,Volume up,increase,volume,none
+1977,Turn up the volume,increase,volume,none
+1978,Turn the volume up,increase,volume,none
+1979,Make the music louder,increase,volume,none
+1980,Make the music softer,decrease,volume,none
+1981,Turn up the temperature,increase,heat,none
+1982,Turn the temperature up,increase,heat,none
+1983,Turn up the heat,increase,heat,none
+1984,Turn the heat up,increase,heat,none
+1985,Turn down the temperature,decrease,heat,none
+1986,Turn down the heat,decrease,heat,none
+1987,Turn the heat down,decrease,heat,none
+1988,Turn off the music,deactivate,music,none
+1989,Stop the music,deactivate,music,none
+1990,Play,activate,music,none
+1991,Play the music,activate,music,none
+1992,Start the music,activate,music,none
+1993,Turn on the lamp,activate,lamp,none
+1994,Switch on the lamp,activate,lamp,none
+1995,Turn the lamp on,activate,lamp,none
+1996,Lamp on,activate,lamp,none
+1997,Turn off the lamp,deactivate,lamp,none
+1998,Turn the lamp off,deactivate,lamp,none
+1999,Switch off the lamp,deactivate,lamp,none
+2000,Lamp off,deactivate,lamp,none
+2001,Switch the lights on,activate,lights,none
+2002,Turn on the kitchen lights,activate,lights,kitchen
+2003,Switch on the kitchen lights,activate,lights,kitchen
+2004,Turn the lights on in the kitchen,activate,lights,kitchen
+2005,Switch on the lights in the kitchen,activate,lights,kitchen
+2006,Lights on in the kitchen,activate,lights,kitchen
+2007,Kitchen lights on,activate,lights,kitchen
+2008,Switch the kitchen lights on,activate,lights,kitchen
+2009,Turn the kitchen lights on,activate,lights,kitchen
+2010,Turn on the lights in the bedroom,activate,lights,bedroom
+2011,Turn the bedroom lights on,activate,lights,bedroom
+2012,Switch on the lights in the bedroom,activate,lights,bedroom
+2013,Switch the bedroom lights on,activate,lights,bedroom
+2014,Lights on in the bedroom,activate,lights,bedroom
+2015,Bedroom lights on,activate,lights,bedroom
+2016,Turn on the washroom lights,activate,lights,washroom
+2017,Switch on the washroom lights,activate,lights,washroom
+2018,Lights on in the washroom,activate,lights,washroom
+2019,Washroom lights on,activate,lights,washroom
+2020,Turn on the bathroom lights,activate,lights,washroom
+2021,Turn the bathroom lights on,activate,lights,washroom
+2022,Switch on the bathroom lights,activate,lights,washroom
+2023,Lights on in the bathroom,activate,lights,washroom
+2024,Bathroom lights on,activate,lights,washroom
+2025,Switch the lights off,deactivate,lights,none
+2026,Turn off the kitchen lights,deactivate,lights,kitchen
+2027,Switch off the lights in the kitchen,deactivate,lights,kitchen
+2028,Switch the lights off in the kitchen,deactivate,lights,kitchen
+2029,Lights off in the kitchen,deactivate,lights,kitchen
+2030,Kitchen lights off,deactivate,lights,kitchen
+2031,Turn off the lights in the bedroom,deactivate,lights,bedroom
+2032,Turn the bedroom lights off,deactivate,lights,bedroom
+2033,Switch the bedroom lights off,deactivate,lights,bedroom
+2034,Lights off in the bedroom,deactivate,lights,bedroom
+2035,Bedroom lights off,deactivate,lights,bedroom
+2036,Turn off the washroom lights,deactivate,lights,washroom
+2037,Switch off the washroom lights,deactivate,lights,washroom
+2038,Lights off in the washroom,deactivate,lights,washroom
+2039,Washroom lights off,deactivate,lights,washroom
+2040,Turn volume up,increase,volume,none
+2041,Turn sound up,increase,volume,none
+2042,Turn it up,increase,volume,none
+2043,Make it louder,increase,volume,none
+2044,Louder,increase,volume,none
+2045,Volume max,increase,volume,none
+2046,Louder please,increase,volume,none
+2047,Increase the volume,increase,volume,none
+2048,Increase the sound volume,increase,volume,none
+2049,I need volume,increase,volume,none
+2050,Increase the sound,increase,volume,none
+2051,Louder phone,increase,volume,none
+2052,I can't hear that,increase,volume,none
+2053,Too quiet,increase,volume,none
+2054,That's too quiet,increase,volume,none
+2055,Far too quiet,increase,volume,none
+2056,Turn the sound up,increase,volume,none
+2057,"I need to hear this, increase the volume",increase,volume,none
+2058,"I couldn't hear anything, turn up the volume",increase,volume,none
+2059,"This video sound is too low, turn up the volume",increase,volume,none
+2060,Decrease volume,decrease,volume,none
+2061,Turn volume down,decrease,volume,none
+2062,Turn sound down,decrease,volume,none
+2063,Decrease audio volume,decrease,volume,none
+2064,Reduce audio volume,decrease,volume,none
+2065,Turn it down,decrease,volume,none
+2066,Quieter,decrease,volume,none
+2067,Volume mute,decrease,volume,none
+2068,Lower the volume,decrease,volume,none
+2069,Volume lower,decrease,volume,none
+2070,Decrease the volume,decrease,volume,none
+2071,Decrease sound levels,decrease,volume,none
+2072,Too loud,decrease,volume,none
+2073,That’s too loud,decrease,volume,none
+2074,Far too loud,decrease,volume,none
+2075,Make it quieter,decrease,volume,none
+2076,"It’s too loud, turn it down",decrease,volume,none
+2077,"It’s too loud, turn the volume down",decrease,volume,none
+2078,Increase the temperature,increase,heat,none
+2079,Increase the heating,increase,heat,none
+2080,Could you increase the heating?,increase,heat,none
+2081,Could you increase the heating please?,increase,heat,none
+2082,Make it hotter,increase,heat,none
+2083,More heat,increase,heat,none
+2084,Heat up,increase,heat,none
+2085,Turn up the temperature in the kitchen,increase,heat,kitchen
+2086,Turn the kitchen temperature up,increase,heat,kitchen
+2087,Increase the temperature in the kitchen,increase,heat,kitchen
+2088,Increase the heating in the kitchen,increase,heat,kitchen
+2089,Turn up the heat in the kitchen,increase,heat,kitchen
+2090,Turn the heat up in the kitchen,increase,heat,kitchen
+2091,Kitchen heat up,increase,heat,kitchen
+2092,Turn up the temperature in the bedroom,increase,heat,bedroom
+2093,Turn the temperature in the bedroom up,increase,heat,bedroom
+2094,Turn up the bedroom heat,increase,heat,bedroom
+2095,Turn the bedroom heat up,increase,heat,bedroom
+2096,Bedroom heat up,increase,heat,bedroom
+2097,Increase the temperature in the bedroom,increase,heat,bedroom
+2098,Increase the heating in the bedroom,increase,heat,bedroom
+2099,Turn up the washroom temperature,increase,heat,washroom
+2100,Turn the temperature up in the washroom,increase,heat,washroom
+2101,Turn up the heat in the washroom,increase,heat,washroom
+2102,Turn the heat up in the washroom,increase,heat,washroom
+2103,Washroom heat up,increase,heat,washroom
+2104,Increase the temperature in the washroom,increase,heat,washroom
+2105,Increase the heating in the washroom,increase,heat,washroom
+2106,Turn up the bathroom temperature,increase,heat,washroom
+2107,Turn the temperature up in the bathroom,increase,heat,washroom
+2108,Turn up the heat in the bathroom,increase,heat,washroom
+2109,Turn the heat up in the bathroom,increase,heat,washroom
+2110,Increase the temperature in the bathroom,increase,heat,washroom
+2111,Increase the heating in the bathroom,increase,heat,washroom
+2112,Make it cooler,decrease,heat,none
+2113,Less heat,decrease,heat,none
+2114,Heat down,decrease,heat,none
+2115,Decrease the temperature,decrease,heat,none
+2116,Decrease the heating,decrease,heat,none
+2117,Could you decrease the heating?,decrease,heat,none
+2118,Could you decrease the heating please?,decrease,heat,none
+2119,Turn down the temperature in the kitchen,decrease,heat,kitchen
+2120,Turn the kitchen temperature down,decrease,heat,kitchen
+2121,Turn the heat down in the kitchen,decrease,heat,kitchen
+2122,Kitchen heat down,decrease,heat,kitchen
+2123,Decrease the temperature in the kitchen,decrease,heat,kitchen
+2124,Decrease the heating in the kitchen,decrease,heat,kitchen
+2125,Turn down the temperature in the bedroom,decrease,heat,bedroom
+2126,Turn the temperature in the bedroom down,decrease,heat,bedroom
+2127,Turn down the bedroom heat,decrease,heat,bedroom
+2128,Turn the bedroom heat down,decrease,heat,bedroom
+2129,Bedroom heat down,decrease,heat,bedroom
+2130,Decrease the temperature in the bedroom,decrease,heat,bedroom
+2131,Decrease the heating in the bedroom,decrease,heat,bedroom
+2132,Turn down the washroom temperature,decrease,heat,washroom
+2133,Turn the temperature down in the washroom,decrease,heat,washroom
+2134,Turn down the heat in the washroom,decrease,heat,washroom
+2135,Turn the heat down in the washroom,decrease,heat,washroom
+2136,Decrease the temperature in the washroom,decrease,heat,washroom
+2137,Decrease the heating in the washroom,decrease,heat,washroom
+2138,Washroom heat down,decrease,heat,washroom
+2139,Turn down the bathroom temperature,decrease,heat,washroom
+2140,Turn the temperature down in the bathroom,decrease,heat,washroom
+2141,Turn down the heat in the bathroom,decrease,heat,washroom
+2142,Turn the heat down in the bathroom,decrease,heat,washroom
+2143,Decrease the temperature in the bathroom,decrease,heat,washroom
+2144,Decrease the heating in the bathroom,decrease,heat,washroom
+2145,Bathroom heat down,decrease,heat,washroom
+2146,Pause music,deactivate,music,none
+2147,Stop music,deactivate,music,none
+2148,Stop,deactivate,music,none
+2149,Play music,activate,music,none
+2150,Resume music,activate,music,none
+2151,Bring me the newspaper,bring,newspaper,none
+2152,Get me the newspaper,bring,newspaper,none
+2153,Bring the newspaper,bring,newspaper,none
+2154,Bring newspaper,bring,newspaper,none
+2155,Go get the newspaper,bring,newspaper,none
+2156,Fetch the newspaper,bring,newspaper,none
+2157,Bring me some juice,bring,juice,none
+2158,Get me some juice,bring,juice,none
+2159,Bring some juice,bring,juice,none
+2160,Bring juice,bring,juice,none
+2161,Go get me some juice,bring,juice,none
+2162,Bring me my socks,bring,socks,none
+2163,Get me my socks,bring,socks,none
+2164,Bring socks,bring,socks,none
+2165,Bring my socks,bring,socks,none
+2166,Go get me my socks,bring,socks,none
+2167,Fetch my socks,bring,socks,none
+2168,Bring me my shoes,bring,shoes,none
+2169,Get me my shoes,bring,shoes,none
+2170,Bring shoes,bring,shoes,none
+2171,Bring my shoes,bring,shoes,none
+2172,Go get me my shoes,bring,shoes,none
+2173,Fetch my shoes,bring,shoes,none
+2174,Allow a different language,change language,none,none
+2175,Use a different language,change language,none,none
+2176,Change the language,change language,none,none
+2177,Switch the language,change language,none,none
+2178,Switch language,change language,none,none
+2179,Switch languages,change language,none,none
+2180,Change system language,change language,none,none
+2181,Open language settings,change language,none,none
+2182,Set the language,change language,none,none
+2183,Language settings,change language,none,none
+2184,Set language to Chinese,change language,Chinese,none
+2185,Set language to German,change language,German,none
+2186,Set language to Korean,change language,Korean,none
+2187,Set language to English,change language,English,none
+2188,Set my device to Chinese,change language,Chinese,none
+2189,OK now switch the main language to Chinese,change language,Chinese,none
+2190,OK now switch the main language to German,change language,German,none
+2191,OK now switch the main language to Korean,change language,Korean,none
+2192,OK now switch the main language to English,change language,English,none
+2193,Set my phone's language to Chinese,change language,Chinese,none
+2194,Set my phone's language to German,change language,German,none
+2195,Set my phone's language to Korean,change language,Korean,none
+2196,Set my phone's language to English,change language,English,none
+2197,I need to practice my Chinese. Switch the language,change language,Chinese,none
+2198,I need to practice my German. Switch the language,change language,German,none
+2199,I need to practice my Korean. Switch the language,change language,Korean,none
+2200,I need to practice my English. Switch the language,change language,English,none
+2201,Turn the washroom lights off,deactivate,lights,washroom
+2202,Pause,deactivate,music,none
+2203,Turn on the lights,activate,lights,none
+2204,Turn off the lights,deactivate,lights,none
+2205,Change language,change language,none,none
+2206,Pause the music,deactivate,music,none
+2207,Resume,activate,music,none
+2208,Volume down,decrease,volume,none
+2209,Turn the lights on,activate,lights,none
+2210,Switch on the lights,activate,lights,none
+2211,Lights on,activate,lights,none
+2212,Switch off the lights,deactivate,lights,none
+2213,Turn the lights off,deactivate,lights,none
+2214,Lights off,deactivate,lights,none
+2215,Volume up,increase,volume,none
+2216,Turn up the volume,increase,volume,none
+2217,Turn the volume up,increase,volume,none
+2218,Make the music louder,increase,volume,none
+2219,Turn down the volume,decrease,volume,none
+2220,Turn the volume down,decrease,volume,none
+2221,Make the music softer,decrease,volume,none
+2222,Turn up the temperature,increase,heat,none
+2223,Turn the temperature up,increase,heat,none
+2224,Turn up the heat,increase,heat,none
+2225,Turn the heat up,increase,heat,none
+2226,Turn down the temperature,decrease,heat,none
+2227,Turn the temperature down,decrease,heat,none
+2228,Turn down the heat,decrease,heat,none
+2229,Turn the heat down,decrease,heat,none
+2230,Turn off the music,deactivate,music,none
+2231,Stop the music,deactivate,music,none
+2232,Play,activate,music,none
+2233,Put on the music,activate,music,none
+2234,Play the music,activate,music,none
+2235,Start the music,activate,music,none
+2236,Turn on the lamp,activate,lamp,none
+2237,Switch on the lamp,activate,lamp,none
+2238,Turn the lamp on,activate,lamp,none
+2239,Lamp on,activate,lamp,none
+2240,Turn off the lamp,deactivate,lamp,none
+2241,Turn the lamp off,deactivate,lamp,none
+2242,Switch off the lamp,deactivate,lamp,none
+2243,Lamp off,deactivate,lamp,none
+2244,Switch the lights on,activate,lights,none
+2245,Turn on the kitchen lights,activate,lights,kitchen
+2246,Switch on the kitchen lights,activate,lights,kitchen
+2247,Turn the lights on in the kitchen,activate,lights,kitchen
+2248,Switch on the lights in the kitchen,activate,lights,kitchen
+2249,Lights on in the kitchen,activate,lights,kitchen
+2250,Kitchen lights on,activate,lights,kitchen
+2251,Switch the kitchen lights on,activate,lights,kitchen
+2252,Turn the kitchen lights on,activate,lights,kitchen
+2253,Turn on the lights in the bedroom,activate,lights,bedroom
+2254,Turn the bedroom lights on,activate,lights,bedroom
+2255,Switch on the lights in the bedroom,activate,lights,bedroom
+2256,Switch the bedroom lights on,activate,lights,bedroom
+2257,Lights on in the bedroom,activate,lights,bedroom
+2258,Bedroom lights on,activate,lights,bedroom
+2259,Turn on the washroom lights,activate,lights,washroom
+2260,Switch on the washroom lights,activate,lights,washroom
+2261,Lights on in the washroom,activate,lights,washroom
+2262,Washroom lights on,activate,lights,washroom
+2263,Turn on the bathroom lights,activate,lights,washroom
+2264,Turn the bathroom lights on,activate,lights,washroom
+2265,Switch on the bathroom lights,activate,lights,washroom
+2266,Lights on in the bathroom,activate,lights,washroom
+2267,Bathroom lights on,activate,lights,washroom
+2268,Switch the lights off,deactivate,lights,none
+2269,Turn off the kitchen lights,deactivate,lights,kitchen
+2270,Turn the lights off in the kitchen,deactivate,lights,kitchen
+2271,Switch off the lights in the kitchen,deactivate,lights,kitchen
+2272,Switch the lights off in the kitchen,deactivate,lights,kitchen
+2273,Lights off in the kitchen,deactivate,lights,kitchen
+2274,Kitchen lights off,deactivate,lights,kitchen
+2275,Turn off the lights in the bedroom,deactivate,lights,bedroom
+2276,Turn the bedroom lights off,deactivate,lights,bedroom
+2277,Switch off the lights in the bedroom,deactivate,lights,bedroom
+2278,Switch the bedroom lights off,deactivate,lights,bedroom
+2279,Lights off in the bedroom,deactivate,lights,bedroom
+2280,Bedroom lights off,deactivate,lights,bedroom
+2281,Turn off the washroom lights,deactivate,lights,washroom
+2282,Switch off the washroom lights,deactivate,lights,washroom
+2283,Lights off in the washroom,deactivate,lights,washroom
+2284,Washroom lights off,deactivate,lights,washroom
+2285,Turn volume up,increase,volume,none
+2286,Turn sound up,increase,volume,none
+2287,Turn it up,increase,volume,none
+2288,Make it louder,increase,volume,none
+2289,Louder,increase,volume,none
+2290,Volume max,increase,volume,none
+2291,Louder please,increase,volume,none
+2292,Increase the volume,increase,volume,none
+2293,Increase the sound volume,increase,volume,none
+2294,I need volume,increase,volume,none
+2295,Increase the sound,increase,volume,none
+2296,Louder phone,increase,volume,none
+2297,I can't hear that,increase,volume,none
+2298,Too quiet,increase,volume,none
+2299,That's too quiet,increase,volume,none
+2300,Far too quiet,increase,volume,none
+2301,Turn the sound up,increase,volume,none
+2302,"I need to hear this, increase the volume",increase,volume,none
+2303,"I couldn't hear anything, turn up the volume",increase,volume,none
+2304,"This video sound is too low, turn up the volume",increase,volume,none
+2305,Decrease volume,decrease,volume,none
+2306,Turn volume down,decrease,volume,none
+2307,Turn sound down,decrease,volume,none
+2308,Decrease audio volume,decrease,volume,none
+2309,Reduce audio volume,decrease,volume,none
+2310,Turn it down,decrease,volume,none
+2311,Quieter,decrease,volume,none
+2312,Volume mute,decrease,volume,none
+2313,Lower the volume,decrease,volume,none
+2314,Volume lower,decrease,volume,none
+2315,Decrease the volume,decrease,volume,none
+2316,Decrease sound levels,decrease,volume,none
+2317,Too loud,decrease,volume,none
+2318,That’s too loud,decrease,volume,none
+2319,Far too loud,decrease,volume,none
+2320,Make it quieter,decrease,volume,none
+2321,"It’s too loud, turn it down",decrease,volume,none
+2322,"It’s too loud, turn the volume down",decrease,volume,none
+2323,Increase the temperature,increase,heat,none
+2324,Increase the heating,increase,heat,none
+2325,Could you increase the heating?,increase,heat,none
+2326,Could you increase the heating please?,increase,heat,none
+2327,Make it hotter,increase,heat,none
+2328,More heat,increase,heat,none
+2329,Heat up,increase,heat,none
+2330,Turn up the temperature in the kitchen,increase,heat,kitchen
+2331,Turn the kitchen temperature up,increase,heat,kitchen
+2332,Increase the temperature in the kitchen,increase,heat,kitchen
+2333,Increase the heating in the kitchen,increase,heat,kitchen
+2334,Turn up the heat in the kitchen,increase,heat,kitchen
+2335,Turn the heat up in the kitchen,increase,heat,kitchen
+2336,Kitchen heat up,increase,heat,kitchen
+2337,Turn up the temperature in the bedroom,increase,heat,bedroom
+2338,Turn the temperature in the bedroom up,increase,heat,bedroom
+2339,Turn up the bedroom heat,increase,heat,bedroom
+2340,Turn the bedroom heat up,increase,heat,bedroom
+2341,Bedroom heat up,increase,heat,bedroom
+2342,Increase the temperature in the bedroom,increase,heat,bedroom
+2343,Increase the heating in the bedroom,increase,heat,bedroom
+2344,Turn up the washroom temperature,increase,heat,washroom
+2345,Turn the temperature up in the washroom,increase,heat,washroom
+2346,Turn up the heat in the washroom,increase,heat,washroom
+2347,Turn the heat up in the washroom,increase,heat,washroom
+2348,Washroom heat up,increase,heat,washroom
+2349,Increase the temperature in the washroom,increase,heat,washroom
+2350,Increase the heating in the washroom,increase,heat,washroom
+2351,Turn up the bathroom temperature,increase,heat,washroom
+2352,Turn the temperature up in the bathroom,increase,heat,washroom
+2353,Turn up the heat in the bathroom,increase,heat,washroom
+2354,Turn the heat up in the bathroom,increase,heat,washroom
+2355,Bathroom heat up,increase,heat,washroom
+2356,Increase the temperature in the bathroom,increase,heat,washroom
+2357,Increase the heating in the bathroom,increase,heat,washroom
+2358,Make it cooler,decrease,heat,none
+2359,Less heat,decrease,heat,none
+2360,Heat down,decrease,heat,none
+2361,Decrease the temperature,decrease,heat,none
+2362,Decrease the heating,decrease,heat,none
+2363,Could you decrease the heating?,decrease,heat,none
+2364,Could you decrease the heating please?,decrease,heat,none
+2365,Turn down the temperature in the kitchen,decrease,heat,kitchen
+2366,Turn the kitchen temperature down,decrease,heat,kitchen
+2367,Turn down the heat in the kitchen,decrease,heat,kitchen
+2368,Turn the heat down in the kitchen,decrease,heat,kitchen
+2369,Kitchen heat down,decrease,heat,kitchen
+2370,Decrease the temperature in the kitchen,decrease,heat,kitchen
+2371,Decrease the heating in the kitchen,decrease,heat,kitchen
+2372,Turn down the temperature in the bedroom,decrease,heat,bedroom
+2373,Turn the temperature in the bedroom down,decrease,heat,bedroom
+2374,Turn the bedroom heat down,decrease,heat,bedroom
+2375,Bedroom heat down,decrease,heat,bedroom
+2376,Decrease the temperature in the bedroom,decrease,heat,bedroom
+2377,Decrease the heating in the bedroom,decrease,heat,bedroom
+2378,Turn down the washroom temperature,decrease,heat,washroom
+2379,Turn the temperature down in the washroom,decrease,heat,washroom
+2380,Turn down the heat in the washroom,decrease,heat,washroom
+2381,Turn the heat down in the washroom,decrease,heat,washroom
+2382,Decrease the temperature in the washroom,decrease,heat,washroom
+2383,Decrease the heating in the washroom,decrease,heat,washroom
+2384,Washroom heat down,decrease,heat,washroom
+2385,Turn down the bathroom temperature,decrease,heat,washroom
+2386,Turn the temperature down in the bathroom,decrease,heat,washroom
+2387,Turn down the heat in the bathroom,decrease,heat,washroom
+2388,Turn the heat down in the bathroom,decrease,heat,washroom
+2389,Decrease the temperature in the bathroom,decrease,heat,washroom
+2390,Decrease the heating in the bathroom,decrease,heat,washroom
+2391,Bathroom heat down,decrease,heat,washroom
+2392,Pause music,deactivate,music,none
+2393,Stop music,deactivate,music,none
+2394,Stop,deactivate,music,none
+2395,Play music,activate,music,none
+2396,Resume music,activate,music,none
+2397,Bring me the newspaper,bring,newspaper,none
+2398,Get me the newspaper,bring,newspaper,none
+2399,Bring the newspaper,bring,newspaper,none
+2400,Bring newspaper,bring,newspaper,none
+2401,Go get the newspaper,bring,newspaper,none
+2402,Fetch the newspaper,bring,newspaper,none
+2403,Bring me some juice,bring,juice,none
+2404,Get me some juice,bring,juice,none
+2405,Bring some juice,bring,juice,none
+2406,Bring juice,bring,juice,none
+2407,Go get me some juice,bring,juice,none
+2408,Bring me my socks,bring,socks,none
+2409,Get me my socks,bring,socks,none
+2410,Bring socks,bring,socks,none
+2411,Bring my socks,bring,socks,none
+2412,Go get me my socks,bring,socks,none
+2413,Fetch my socks,bring,socks,none
+2414,Bring me my shoes,bring,shoes,none
+2415,Get me my shoes,bring,shoes,none
+2416,Bring shoes,bring,shoes,none
+2417,Bring my shoes,bring,shoes,none
+2418,Go get me my shoes,bring,shoes,none
+2419,Fetch my shoes,bring,shoes,none
+2420,Allow a different language,change language,none,none
+2421,Use a different language,change language,none,none
+2422,Change the language,change language,none,none
+2423,Switch the language,change language,none,none
+2424,Switch language,change language,none,none
+2425,Switch languages,change language,none,none
+2426,Change system language,change language,none,none
+2427,Open language settings,change language,none,none
+2428,Set the language,change language,none,none
+2429,Language settings,change language,none,none
+2430,Set language to Chinese,change language,Chinese,none
+2431,Set language to German,change language,German,none
+2432,Set language to Korean,change language,Korean,none
+2433,Set language to English,change language,English,none
+2434,Set my device to Chinese,change language,Chinese,none
+2435,OK now switch the main language to Chinese,change language,Chinese,none
+2436,OK now switch the main language to German,change language,German,none
+2437,OK now switch the main language to Korean,change language,Korean,none
+2438,OK now switch the main language to English,change language,English,none
+2439,Set my phone's language to Chinese,change language,Chinese,none
+2440,Set my phone's language to German,change language,German,none
+2441,Set my phone's language to Korean,change language,Korean,none
+2442,Set my phone's language to English,change language,English,none
+2443,I need to practice my Chinese. Switch the language,change language,Chinese,none
+2444,I need to practice my German. Switch the language,change language,German,none
+2445,I need to practice my Korean. Switch the language,change language,Korean,none
+2446,I need to practice my English. Switch the language,change language,English,none
+2447,Turn the washroom lights off,deactivate,lights,washroom
+2448,Turn on the lights,activate,lights,none
+2449,Turn off the lights,deactivate,lights,none
+2450,Change language,change language,none,none
+2451,Pause the music,deactivate,music,none
+2452,Resume,activate,music,none
+2453,Volume down,decrease,volume,none
+2454,Turn the lights on,activate,lights,none
+2455,Switch on the lights,activate,lights,none
+2456,Lights on,activate,lights,none
+2457,Switch off the lights,deactivate,lights,none
+2458,Turn the lights off,deactivate,lights,none
+2459,Lights off,deactivate,lights,none
+2460,Volume up,increase,volume,none
+2461,Turn up the volume,increase,volume,none
+2462,Turn the volume up,increase,volume,none
+2463,Make the music louder,increase,volume,none
+2464,Turn down the volume,decrease,volume,none
+2465,Turn the volume down,decrease,volume,none
+2466,Make the music softer,decrease,volume,none
+2467,Turn up the temperature,increase,heat,none
+2468,Turn the temperature up,increase,heat,none
+2469,Turn up the heat,increase,heat,none
+2470,Turn the heat up,increase,heat,none
+2471,Turn down the temperature,decrease,heat,none
+2472,Turn the temperature down,decrease,heat,none
+2473,Turn down the heat,decrease,heat,none
+2474,Turn the heat down,decrease,heat,none
+2475,Turn off the music,deactivate,music,none
+2476,Stop the music,deactivate,music,none
+2477,Play,activate,music,none
+2478,Put on the music,activate,music,none
+2479,Play the music,activate,music,none
+2480,Start the music,activate,music,none
+2481,Turn on the lamp,activate,lamp,none
+2482,Switch on the lamp,activate,lamp,none
+2483,Turn the lamp on,activate,lamp,none
+2484,Lamp on,activate,lamp,none
+2485,Turn off the lamp,deactivate,lamp,none
+2486,Turn the lamp off,deactivate,lamp,none
+2487,Switch off the lamp,deactivate,lamp,none
+2488,Lamp off,deactivate,lamp,none
+2489,Switch the lights on,activate,lights,none
+2490,Turn on the kitchen lights,activate,lights,kitchen
+2491,Switch on the kitchen lights,activate,lights,kitchen
+2492,Turn the lights on in the kitchen,activate,lights,kitchen
+2493,Switch on the lights in the kitchen,activate,lights,kitchen
+2494,Lights on in the kitchen,activate,lights,kitchen
+2495,Kitchen lights on,activate,lights,kitchen
+2496,Switch the kitchen lights on,activate,lights,kitchen
+2497,Turn the kitchen lights on,activate,lights,kitchen
+2498,Turn on the lights in the bedroom,activate,lights,bedroom
+2499,Turn the bedroom lights on,activate,lights,bedroom
+2500,Switch on the lights in the bedroom,activate,lights,bedroom
+2501,Switch the bedroom lights on,activate,lights,bedroom
+2502,Lights on in the bedroom,activate,lights,bedroom
+2503,Bedroom lights on,activate,lights,bedroom
+2504,Turn on the washroom lights,activate,lights,washroom
+2505,Turn the washroom lights on,activate,lights,washroom
+2506,Switch on the washroom lights,activate,lights,washroom
+2507,Washroom lights on,activate,lights,washroom
+2508,Turn on the bathroom lights,activate,lights,washroom
+2509,Turn the bathroom lights on,activate,lights,washroom
+2510,Switch on the bathroom lights,activate,lights,washroom
+2511,Lights on in the bathroom,activate,lights,washroom
+2512,Bathroom lights on,activate,lights,washroom
+2513,Switch the lights off,deactivate,lights,none
+2514,Turn off the kitchen lights,deactivate,lights,kitchen
+2515,Turn the lights off in the kitchen,deactivate,lights,kitchen
+2516,Switch off the lights in the kitchen,deactivate,lights,kitchen
+2517,Switch the lights off in the kitchen,deactivate,lights,kitchen
+2518,Lights off in the kitchen,deactivate,lights,kitchen
+2519,Kitchen lights off,deactivate,lights,kitchen
+2520,Turn off the lights in the bedroom,deactivate,lights,bedroom
+2521,Turn the bedroom lights off,deactivate,lights,bedroom
+2522,Switch off the lights in the bedroom,deactivate,lights,bedroom
+2523,Switch the bedroom lights off,deactivate,lights,bedroom
+2524,Lights off in the bedroom,deactivate,lights,bedroom
+2525,Bedroom lights off,deactivate,lights,bedroom
+2526,Turn off the washroom lights,deactivate,lights,washroom
+2527,Switch off the washroom lights,deactivate,lights,washroom
+2528,Lights off in the washroom,deactivate,lights,washroom
+2529,Washroom lights off,deactivate,lights,washroom
+2530,Turn volume up,increase,volume,none
+2531,Turn it up,increase,volume,none
+2532,Make it louder,increase,volume,none
+2533,Louder,increase,volume,none
+2534,Volume max,increase,volume,none
+2535,Louder please,increase,volume,none
+2536,Increase the volume,increase,volume,none
+2537,Increase the sound volume,increase,volume,none
+2538,I need volume,increase,volume,none
+2539,Increase the sound,increase,volume,none
+2540,Louder phone,increase,volume,none
+2541,I can't hear that,increase,volume,none
+2542,Too quiet,increase,volume,none
+2543,That's too quiet,increase,volume,none
+2544,Far too quiet,increase,volume,none
+2545,Turn the sound up,increase,volume,none
+2546,"I need to hear this, increase the volume",increase,volume,none
+2547,"I couldn't hear anything, turn up the volume",increase,volume,none
+2548,"This video sound is too low, turn up the volume",increase,volume,none
+2549,Decrease volume,decrease,volume,none
+2550,Turn volume down,decrease,volume,none
+2551,Turn sound down,decrease,volume,none
+2552,Decrease audio volume,decrease,volume,none
+2553,Reduce audio volume,decrease,volume,none
+2554,Turn it down,decrease,volume,none
+2555,Quieter,decrease,volume,none
+2556,Volume mute,decrease,volume,none
+2557,Lower the volume,decrease,volume,none
+2558,Volume lower,decrease,volume,none
+2559,Decrease the volume,decrease,volume,none
+2560,Decrease sound levels,decrease,volume,none
+2561,Too loud,decrease,volume,none
+2562,That’s too loud,decrease,volume,none
+2563,Far too loud,decrease,volume,none
+2564,Make it quieter,decrease,volume,none
+2565,"It’s too loud, turn it down",decrease,volume,none
+2566,"It’s too loud, turn the volume down",decrease,volume,none
+2567,Increase the temperature,increase,heat,none
+2568,Increase the heating,increase,heat,none
+2569,Could you increase the heating?,increase,heat,none
+2570,Could you increase the heating please?,increase,heat,none
+2571,Make it hotter,increase,heat,none
+2572,More heat,increase,heat,none
+2573,Heat up,increase,heat,none
+2574,Turn up the temperature in the kitchen,increase,heat,kitchen
+2575,Turn the kitchen temperature up,increase,heat,kitchen
+2576,Increase the temperature in the kitchen,increase,heat,kitchen
+2577,Increase the heating in the kitchen,increase,heat,kitchen
+2578,Turn up the heat in the kitchen,increase,heat,kitchen
+2579,Turn the heat up in the kitchen,increase,heat,kitchen
+2580,Turn up the temperature in the bedroom,increase,heat,bedroom
+2581,Turn the temperature in the bedroom up,increase,heat,bedroom
+2582,Turn up the bedroom heat,increase,heat,bedroom
+2583,Turn the bedroom heat up,increase,heat,bedroom
+2584,Bedroom heat up,increase,heat,bedroom
+2585,Increase the temperature in the bedroom,increase,heat,bedroom
+2586,Increase the heating in the bedroom,increase,heat,bedroom
+2587,Turn up the washroom temperature,increase,heat,washroom
+2588,Turn the temperature up in the washroom,increase,heat,washroom
+2589,Turn up the heat in the washroom,increase,heat,washroom
+2590,Turn the heat up in the washroom,increase,heat,washroom
+2591,Washroom heat up,increase,heat,washroom
+2592,Increase the temperature in the washroom,increase,heat,washroom
+2593,Increase the heating in the washroom,increase,heat,washroom
+2594,Turn up the bathroom temperature,increase,heat,washroom
+2595,Turn the temperature up in the bathroom,increase,heat,washroom
+2596,Turn up the heat in the bathroom,increase,heat,washroom
+2597,Turn the heat up in the bathroom,increase,heat,washroom
+2598,Bathroom heat up,increase,heat,washroom
+2599,Increase the temperature in the bathroom,increase,heat,washroom
+2600,Increase the heating in the bathroom,increase,heat,washroom
+2601,Make it cooler,decrease,heat,none
+2602,Less heat,decrease,heat,none
+2603,Heat down,decrease,heat,none
+2604,Decrease the temperature,decrease,heat,none
+2605,Decrease the heating,decrease,heat,none
+2606,Could you decrease the heating?,decrease,heat,none
+2607,Turn down the temperature in the kitchen,decrease,heat,kitchen
+2608,Turn the kitchen temperature down,decrease,heat,kitchen
+2609,Turn down the heat in the kitchen,decrease,heat,kitchen
+2610,Turn the heat down in the kitchen,decrease,heat,kitchen
+2611,Kitchen heat down,decrease,heat,kitchen
+2612,Decrease the temperature in the kitchen,decrease,heat,kitchen
+2613,Decrease the heating in the kitchen,decrease,heat,kitchen
+2614,Turn down the temperature in the bedroom,decrease,heat,bedroom
+2615,Turn the temperature in the bedroom down,decrease,heat,bedroom
+2616,Turn down the bedroom heat,decrease,heat,bedroom
+2617,Turn the bedroom heat down,decrease,heat,bedroom
+2618,Bedroom heat down,decrease,heat,bedroom
+2619,Decrease the temperature in the bedroom,decrease,heat,bedroom
+2620,Decrease the heating in the bedroom,decrease,heat,bedroom
+2621,Turn down the washroom temperature,decrease,heat,washroom
+2622,Turn the temperature down in the washroom,decrease,heat,washroom
+2623,Turn down the heat in the washroom,decrease,heat,washroom
+2624,Turn the heat down in the washroom,decrease,heat,washroom
+2625,Decrease the temperature in the washroom,decrease,heat,washroom
+2626,Decrease the heating in the washroom,decrease,heat,washroom
+2627,Washroom heat down,decrease,heat,washroom
+2628,Turn down the bathroom temperature,decrease,heat,washroom
+2629,Turn the temperature down in the bathroom,decrease,heat,washroom
+2630,Turn down the heat in the bathroom,decrease,heat,washroom
+2631,Turn the heat down in the bathroom,decrease,heat,washroom
+2632,Decrease the temperature in the bathroom,decrease,heat,washroom
+2633,Decrease the heating in the bathroom,decrease,heat,washroom
+2634,Bathroom heat down,decrease,heat,washroom
+2635,Pause music,deactivate,music,none
+2636,Stop music,deactivate,music,none
+2637,Stop,deactivate,music,none
+2638,Play music,activate,music,none
+2639,Resume music,activate,music,none
+2640,Bring me the newspaper,bring,newspaper,none
+2641,Get me the newspaper,bring,newspaper,none
+2642,Bring the newspaper,bring,newspaper,none
+2643,Bring newspaper,bring,newspaper,none
+2644,Go get the newspaper,bring,newspaper,none
+2645,Fetch the newspaper,bring,newspaper,none
+2646,Bring me some juice,bring,juice,none
+2647,Get me some juice,bring,juice,none
+2648,Bring some juice,bring,juice,none
+2649,Bring juice,bring,juice,none
+2650,Go get me some juice,bring,juice,none
+2651,Bring me my socks,bring,socks,none
+2652,Get me my socks,bring,socks,none
+2653,Bring socks,bring,socks,none
+2654,Bring my socks,bring,socks,none
+2655,Go get me my socks,bring,socks,none
+2656,Fetch my socks,bring,socks,none
+2657,Bring me my shoes,bring,shoes,none
+2658,Get me my shoes,bring,shoes,none
+2659,Bring shoes,bring,shoes,none
+2660,Bring my shoes,bring,shoes,none
+2661,Go get me my shoes,bring,shoes,none
+2662,Fetch my shoes,bring,shoes,none
+2663,Allow a different language,change language,none,none
+2664,Use a different language,change language,none,none
+2665,Change the language,change language,none,none
+2666,Switch the language,change language,none,none
+2667,Switch language,change language,none,none
+2668,Switch languages,change language,none,none
+2669,Change system language,change language,none,none
+2670,Open language settings,change language,none,none
+2671,Set the language,change language,none,none
+2672,Language settings,change language,none,none
+2673,Set language to Chinese,change language,Chinese,none
+2674,Set language to German,change language,German,none
+2675,Set language to Korean,change language,Korean,none
+2676,Set language to English,change language,English,none
+2677,Set my device to Chinese,change language,Chinese,none
+2678,OK now switch the main language to Chinese,change language,Chinese,none
+2679,OK now switch the main language to German,change language,German,none
+2680,OK now switch the main language to Korean,change language,Korean,none
+2681,OK now switch the main language to English,change language,English,none
+2682,Set my phone's language to Chinese,change language,Chinese,none
+2683,Set my phone's language to German,change language,German,none
+2684,Set my phone's language to Korean,change language,Korean,none
+2685,Set my phone's language to English,change language,English,none
+2686,I need to practice my Chinese. Switch the language,change language,Chinese,none
+2687,I need to practice my German. Switch the language,change language,German,none
+2688,I need to practice my Korean. Switch the language,change language,Korean,none
+2689,I need to practice my English. Switch the language,change language,English,none
+2690,Turn the washroom lights off,deactivate,lights,washroom
+2691,Pause,deactivate,music,none
+2692,Turn on the lights,activate,lights,none
+2693,Turn off the lights,deactivate,lights,none
+2694,Change language,change language,none,none
+2695,Pause the music,deactivate,music,none
+2696,Resume,activate,music,none
+2697,Volume down,decrease,volume,none
+2698,Turn the lights on,activate,lights,none
+2699,Switch on the lights,activate,lights,none
+2700,Lights on,activate,lights,none
+2701,Switch off the lights,deactivate,lights,none
+2702,Turn the lights off,deactivate,lights,none
+2703,Lights off,deactivate,lights,none
+2704,Volume up,increase,volume,none
+2705,Turn up the volume,increase,volume,none
+2706,Turn the volume up,increase,volume,none
+2707,Make the music louder,increase,volume,none
+2708,Turn down the volume,decrease,volume,none
+2709,Turn the volume down,decrease,volume,none
+2710,Make the music softer,decrease,volume,none
+2711,Turn up the temperature,increase,heat,none
+2712,Turn the temperature up,increase,heat,none
+2713,Turn up the heat,increase,heat,none
+2714,Turn the heat up,increase,heat,none
+2715,Turn down the temperature,decrease,heat,none
+2716,Turn the temperature down,decrease,heat,none
+2717,Turn down the heat,decrease,heat,none
+2718,Turn the heat down,decrease,heat,none
+2719,Turn off the music,deactivate,music,none
+2720,Stop the music,deactivate,music,none
+2721,Play,activate,music,none
+2722,Put on the music,activate,music,none
+2723,Play the music,activate,music,none
+2724,Start the music,activate,music,none
+2725,Turn on the lamp,activate,lamp,none
+2726,Switch on the lamp,activate,lamp,none
+2727,Turn the lamp on,activate,lamp,none
+2728,Lamp on,activate,lamp,none
+2729,Turn off the lamp,deactivate,lamp,none
+2730,Turn the lamp off,deactivate,lamp,none
+2731,Switch off the lamp,deactivate,lamp,none
+2732,Lamp off,deactivate,lamp,none
+2733,Switch the lights on,activate,lights,none
+2734,Turn on the kitchen lights,activate,lights,kitchen
+2735,Switch on the kitchen lights,activate,lights,kitchen
+2736,Turn the lights on in the kitchen,activate,lights,kitchen
+2737,Switch on the lights in the kitchen,activate,lights,kitchen
+2738,Lights on in the kitchen,activate,lights,kitchen
+2739,Kitchen lights on,activate,lights,kitchen
+2740,Switch the kitchen lights on,activate,lights,kitchen
+2741,Turn the kitchen lights on,activate,lights,kitchen
+2742,Turn on the lights in the bedroom,activate,lights,bedroom
+2743,Turn the bedroom lights on,activate,lights,bedroom
+2744,Switch on the lights in the bedroom,activate,lights,bedroom
+2745,Switch the bedroom lights on,activate,lights,bedroom
+2746,Lights on in the bedroom,activate,lights,bedroom
+2747,Bedroom lights on,activate,lights,bedroom
+2748,Turn on the washroom lights,activate,lights,washroom
+2749,Turn the washroom lights on,activate,lights,washroom
+2750,Switch on the washroom lights,activate,lights,washroom
+2751,Lights on in the washroom,activate,lights,washroom
+2752,Washroom lights on,activate,lights,washroom
+2753,Turn on the bathroom lights,activate,lights,washroom
+2754,Turn the bathroom lights on,activate,lights,washroom
+2755,Switch on the bathroom lights,activate,lights,washroom
+2756,Lights on in the bathroom,activate,lights,washroom
+2757,Bathroom lights on,activate,lights,washroom
+2758,Switch the lights off,deactivate,lights,none
+2759,Turn off the kitchen lights,deactivate,lights,kitchen
+2760,Turn the lights off in the kitchen,deactivate,lights,kitchen
+2761,Switch off the lights in the kitchen,deactivate,lights,kitchen
+2762,Switch the lights off in the kitchen,deactivate,lights,kitchen
+2763,Lights off in the kitchen,deactivate,lights,kitchen
+2764,Kitchen lights off,deactivate,lights,kitchen
+2765,Turn off the lights in the bedroom,deactivate,lights,bedroom
+2766,Turn the bedroom lights off,deactivate,lights,bedroom
+2767,Switch off the lights in the bedroom,deactivate,lights,bedroom
+2768,Switch the bedroom lights off,deactivate,lights,bedroom
+2769,Lights off in the bedroom,deactivate,lights,bedroom
+2770,Bedroom lights off,deactivate,lights,bedroom
+2771,Turn off the washroom lights,deactivate,lights,washroom
+2772,Switch off the washroom lights,deactivate,lights,washroom
+2773,Lights off in the washroom,deactivate,lights,washroom
+2774,Washroom lights off,deactivate,lights,washroom
+2775,Turn volume up,increase,volume,none
+2776,Turn sound up,increase,volume,none
+2777,Turn it up,increase,volume,none
+2778,Make it louder,increase,volume,none
+2779,Louder,increase,volume,none
+2780,Volume max,increase,volume,none
+2781,Louder please,increase,volume,none
+2782,Increase the volume,increase,volume,none
+2783,Increase the sound volume,increase,volume,none
+2784,I need volume,increase,volume,none
+2785,Increase the sound,increase,volume,none
+2786,Louder phone,increase,volume,none
+2787,I can't hear that,increase,volume,none
+2788,Too quiet,increase,volume,none
+2789,That's too quiet,increase,volume,none
+2790,Far too quiet,increase,volume,none
+2791,Turn the sound up,increase,volume,none
+2792,"I need to hear this, increase the volume",increase,volume,none
+2793,"I couldn't hear anything, turn up the volume",increase,volume,none
+2794,"This video sound is too low, turn up the volume",increase,volume,none
+2795,Decrease volume,decrease,volume,none
+2796,Turn volume down,decrease,volume,none
+2797,Turn sound down,decrease,volume,none
+2798,Decrease audio volume,decrease,volume,none
+2799,Reduce audio volume,decrease,volume,none
+2800,Turn it down,decrease,volume,none
+2801,Quieter,decrease,volume,none
+2802,Volume mute,decrease,volume,none
+2803,Lower the volume,decrease,volume,none
+2804,Volume lower,decrease,volume,none
+2805,Decrease the volume,decrease,volume,none
+2806,Decrease sound levels,decrease,volume,none
+2807,Too loud,decrease,volume,none
+2808,That’s too loud,decrease,volume,none
+2809,Far too loud,decrease,volume,none
+2810,Make it quieter,decrease,volume,none
+2811,"It’s too loud, turn it down",decrease,volume,none
+2812,"It’s too loud, turn the volume down",decrease,volume,none
+2813,Increase the temperature,increase,heat,none
+2814,Increase the heating,increase,heat,none
+2815,Could you increase the heating?,increase,heat,none
+2816,Could you increase the heating please?,increase,heat,none
+2817,Make it hotter,increase,heat,none
+2818,More heat,increase,heat,none
+2819,Heat up,increase,heat,none
+2820,Turn up the temperature in the kitchen,increase,heat,kitchen
+2821,Turn the kitchen temperature up,increase,heat,kitchen
+2822,Increase the temperature in the kitchen,increase,heat,kitchen
+2823,Increase the heating in the kitchen,increase,heat,kitchen
+2824,Turn up the heat in the kitchen,increase,heat,kitchen
+2825,Turn the heat up in the kitchen,increase,heat,kitchen
+2826,Kitchen heat up,increase,heat,kitchen
+2827,Turn up the temperature in the bedroom,increase,heat,bedroom
+2828,Turn the temperature in the bedroom up,increase,heat,bedroom
+2829,Turn up the bedroom heat,increase,heat,bedroom
+2830,Turn the bedroom heat up,increase,heat,bedroom
+2831,Bedroom heat up,increase,heat,bedroom
+2832,Increase the temperature in the bedroom,increase,heat,bedroom
+2833,Increase the heating in the bedroom,increase,heat,bedroom
+2834,Turn up the washroom temperature,increase,heat,washroom
+2835,Turn the temperature up in the washroom,increase,heat,washroom
+2836,Turn up the heat in the washroom,increase,heat,washroom
+2837,Turn the heat up in the washroom,increase,heat,washroom
+2838,Washroom heat up,increase,heat,washroom
+2839,Increase the temperature in the washroom,increase,heat,washroom
+2840,Increase the heating in the washroom,increase,heat,washroom
+2841,Turn up the bathroom temperature,increase,heat,washroom
+2842,Turn the temperature up in the bathroom,increase,heat,washroom
+2843,Turn up the heat in the bathroom,increase,heat,washroom
+2844,Turn the heat up in the bathroom,increase,heat,washroom
+2845,Bathroom heat up,increase,heat,washroom
+2846,Increase the temperature in the bathroom,increase,heat,washroom
+2847,Increase the heating in the bathroom,increase,heat,washroom
+2848,Make it cooler,decrease,heat,none
+2849,Less heat,decrease,heat,none
+2850,Heat down,decrease,heat,none
+2851,Decrease the temperature,decrease,heat,none
+2852,Decrease the heating,decrease,heat,none
+2853,Could you decrease the heating?,decrease,heat,none
+2854,Could you decrease the heating please?,decrease,heat,none
+2855,Turn down the temperature in the kitchen,decrease,heat,kitchen
+2856,Turn the kitchen temperature down,decrease,heat,kitchen
+2857,Turn down the heat in the kitchen,decrease,heat,kitchen
+2858,Turn the heat down in the kitchen,decrease,heat,kitchen
+2859,Kitchen heat down,decrease,heat,kitchen
+2860,Decrease the temperature in the kitchen,decrease,heat,kitchen
+2861,Decrease the heating in the kitchen,decrease,heat,kitchen
+2862,Turn down the temperature in the bedroom,decrease,heat,bedroom
+2863,Turn the temperature in the bedroom down,decrease,heat,bedroom
+2864,Turn down the bedroom heat,decrease,heat,bedroom
+2865,Turn the bedroom heat down,decrease,heat,bedroom
+2866,Bedroom heat down,decrease,heat,bedroom
+2867,Decrease the temperature in the bedroom,decrease,heat,bedroom
+2868,Decrease the heating in the bedroom,decrease,heat,bedroom
+2869,Turn down the washroom temperature,decrease,heat,washroom
+2870,Turn the temperature down in the washroom,decrease,heat,washroom
+2871,Turn down the heat in the washroom,decrease,heat,washroom
+2872,Turn the heat down in the washroom,decrease,heat,washroom
+2873,Decrease the temperature in the washroom,decrease,heat,washroom
+2874,Decrease the heating in the washroom,decrease,heat,washroom
+2875,Washroom heat down,decrease,heat,washroom
+2876,Turn down the bathroom temperature,decrease,heat,washroom
+2877,Turn the temperature down in the bathroom,decrease,heat,washroom
+2878,Turn down the heat in the bathroom,decrease,heat,washroom
+2879,Turn the heat down in the bathroom,decrease,heat,washroom
+2880,Decrease the temperature in the bathroom,decrease,heat,washroom
+2881,Decrease the heating in the bathroom,decrease,heat,washroom
+2882,Bathroom heat down,decrease,heat,washroom
+2883,Pause music,deactivate,music,none
+2884,Stop music,deactivate,music,none
+2885,Stop,deactivate,music,none
+2886,Play music,activate,music,none
+2887,Resume music,activate,music,none
+2888,Bring me the newspaper,bring,newspaper,none
+2889,Get me the newspaper,bring,newspaper,none
+2890,Bring the newspaper,bring,newspaper,none
+2891,Bring newspaper,bring,newspaper,none
+2892,Go get the newspaper,bring,newspaper,none
+2893,Fetch the newspaper,bring,newspaper,none
+2894,Bring me some juice,bring,juice,none
+2895,Get me some juice,bring,juice,none
+2896,Bring some juice,bring,juice,none
+2897,Bring juice,bring,juice,none
+2898,Go get me some juice,bring,juice,none
+2899,Bring me my socks,bring,socks,none
+2900,Get me my socks,bring,socks,none
+2901,Bring socks,bring,socks,none
+2902,Bring my socks,bring,socks,none
+2903,Go get me my socks,bring,socks,none
+2904,Fetch my socks,bring,socks,none
+2905,Bring me my shoes,bring,shoes,none
+2906,Get me my shoes,bring,shoes,none
+2907,Bring shoes,bring,shoes,none
+2908,Bring my shoes,bring,shoes,none
+2909,Go get me my shoes,bring,shoes,none
+2910,Fetch my shoes,bring,shoes,none
+2911,Allow a different language,change language,none,none
+2912,Use a different language,change language,none,none
+2913,Change the language,change language,none,none
+2914,Switch the language,change language,none,none
+2915,Switch language,change language,none,none
+2916,Switch languages,change language,none,none
+2917,Change system language,change language,none,none
+2918,Open language settings,change language,none,none
+2919,Set the language,change language,none,none
+2920,Language settings,change language,none,none
+2921,Set language to Chinese,change language,Chinese,none
+2922,Set language to German,change language,German,none
+2923,Set language to Korean,change language,Korean,none
+2924,Set language to English,change language,English,none
+2925,Set my device to Chinese,change language,Chinese,none
+2926,OK now switch the main language to Chinese,change language,Chinese,none
+2927,OK now switch the main language to German,change language,German,none
+2928,OK now switch the main language to Korean,change language,Korean,none
+2929,OK now switch the main language to English,change language,English,none
+2930,Set my phone's language to Chinese,change language,Chinese,none
+2931,Set my phone's language to German,change language,German,none
+2932,Set my phone's language to Korean,change language,Korean,none
+2933,Set my phone's language to English,change language,English,none
+2934,I need to practice my Chinese. Switch the language,change language,Chinese,none
+2935,I need to practice my German. Switch the language,change language,German,none
+2936,I need to practice my Korean. Switch the language,change language,Korean,none
+2937,I need to practice my English. Switch the language,change language,English,none
+2938,Turn the washroom lights off,deactivate,lights,washroom
+2939,Resume,activate,music,none
+2940,Turn the lights on,activate,lights,none
+2941,Lights on,activate,lights,none
+2942,Switch off the lights,deactivate,lights,none
+2943,Turn up the volume,increase,volume,none
+2944,Turn down the volume,decrease,volume,none
+2945,Turn down the heat,decrease,heat,none
+2946,Turn off the music,deactivate,music,none
+2947,Stop the music,deactivate,music,none
+2948,Start the music,activate,music,none
+2949,Turn on the lamp,activate,lamp,none
+2950,Switch on the lamp,activate,lamp,none
+2951,Turn the lamp on,activate,lamp,none
+2952,Turn off the lamp,deactivate,lamp,none
+2953,Turn the lamp off,deactivate,lamp,none
+2954,Switch off the lamp,deactivate,lamp,none
+2955,Turn on the kitchen lights,activate,lights,kitchen
+2956,Lights on in the kitchen,activate,lights,kitchen
+2957,Switch on the lights in the bedroom,activate,lights,bedroom
+2958,Switch the bedroom lights on,activate,lights,bedroom
+2959,Lights on in the bedroom,activate,lights,bedroom
+2960,Turn on the washroom lights,activate,lights,washroom
+2961,Switch on the washroom lights,activate,lights,washroom
+2962,Turn on the bathroom lights,activate,lights,washroom
+2963,Lights on in the bathroom,activate,lights,washroom
+2964,Switch the lights off,deactivate,lights,none
+2965,Lights off in the kitchen,deactivate,lights,kitchen
+2966,Kitchen lights off,deactivate,lights,kitchen
+2967,Turn off the lights in the bedroom,deactivate,lights,bedroom
+2968,Lights off in the bedroom,deactivate,lights,bedroom
+2969,Bedroom lights off,deactivate,lights,bedroom
+2970,Turn sound up,increase,volume,none
+2971,Turn it up,increase,volume,none
+2972,Louder,increase,volume,none
+2973,Volume max,increase,volume,none
+2974,Louder please,increase,volume,none
+2975,Increase the volume,increase,volume,none
+2976,Increase the sound volume,increase,volume,none
+2977,I need volume,increase,volume,none
+2978,Increase the sound,increase,volume,none
+2979,Louder phone,increase,volume,none
+2980,"I need to hear this, increase the volume",increase,volume,none
+2981,"I couldn't hear anything, turn up the volume",increase,volume,none
+2982,Decrease volume,decrease,volume,none
+2983,Turn volume down,decrease,volume,none
+2984,Turn sound down,decrease,volume,none
+2985,Decrease audio volume,decrease,volume,none
+2986,Turn it down,decrease,volume,none
+2987,Lower the volume,decrease,volume,none
+2988,Decrease the volume,decrease,volume,none
+2989,Decrease sound levels,decrease,volume,none
+2990,That’s too loud,decrease,volume,none
+2991,"It’s too loud, turn the volume down",decrease,volume,none
+2992,Make it hotter,increase,heat,none
+2993,Heat up,increase,heat,none
+2994,Turn up the temperature in the kitchen,increase,heat,kitchen
+2995,Turn the kitchen temperature up,increase,heat,kitchen
+2996,Increase the temperature in the kitchen,increase,heat,kitchen
+2997,Increase the heating in the kitchen,increase,heat,kitchen
+2998,Turn up the heat in the kitchen,increase,heat,kitchen
+2999,Turn the heat up in the kitchen,increase,heat,kitchen
+3000,Kitchen heat up,increase,heat,kitchen
+3001,Increase the heating in the bedroom,increase,heat,bedroom
+3002,Turn up the washroom temperature,increase,heat,washroom
+3003,Turn the temperature up in the washroom,increase,heat,washroom
+3004,Turn the heat up in the washroom,increase,heat,washroom
+3005,Increase the temperature in the washroom,increase,heat,washroom
+3006,Turn up the bathroom temperature,increase,heat,washroom
+3007,Turn the temperature up in the bathroom,increase,heat,washroom
+3008,Increase the temperature in the bathroom,increase,heat,washroom
+3009,Decrease the temperature,decrease,heat,none
+3010,Decrease the heating,decrease,heat,none
+3011,Turn down the temperature in the kitchen,decrease,heat,kitchen
+3012,Kitchen heat down,decrease,heat,kitchen
+3013,Decrease the temperature in the kitchen,decrease,heat,kitchen
+3014,Turn down the bedroom heat,decrease,heat,bedroom
+3015,Turn the bedroom heat down,decrease,heat,bedroom
+3016,Bedroom heat down,decrease,heat,bedroom
+3017,Decrease the temperature in the bedroom,decrease,heat,bedroom
+3018,Turn down the washroom temperature,decrease,heat,washroom
+3019,Turn the temperature down in the washroom,decrease,heat,washroom
+3020,Turn down the heat in the washroom,decrease,heat,washroom
+3021,Turn the heat down in the washroom,decrease,heat,washroom
+3022,Decrease the temperature in the washroom,decrease,heat,washroom
+3023,Turn down the bathroom temperature,decrease,heat,washroom
+3024,Stop music,deactivate,music,none
+3025,Stop,deactivate,music,none
+3026,Play music,activate,music,none
+3027,Resume music,activate,music,none
+3028,Bring me the newspaper,bring,newspaper,none
+3029,Bring the newspaper,bring,newspaper,none
+3030,Bring me some juice,bring,juice,none
+3031,Bring some juice,bring,juice,none
+3032,Bring me my socks,bring,socks,none
+3033,Allow a different language,change language,none,none
+3034,Change the language,change language,none,none
+3035,Switch the language,change language,none,none
+3036,Open language settings,change language,none,none
+3037,Set the language,change language,none,none
+3038,Set language to Chinese,change language,Chinese,none
+3039,Set my phone's language to Chinese,change language,Chinese,none
+3040,Turn on the lights,activate,lights,none
+3041,Pause the music,deactivate,music,none
+3042,Resume,activate,music,none
+3043,Volume down,decrease,volume,none
+3044,Turn the lights on,activate,lights,none
+3045,Switch off the lights,deactivate,lights,none
+3046,Lights off,deactivate,lights,none
+3047,Volume up,increase,volume,none
+3048,Make the music louder,increase,volume,none
+3049,Turn down the volume,decrease,volume,none
+3050,Make the music softer,decrease,volume,none
+3051,Turn up the temperature,increase,heat,none
+3052,Turn the temperature up,increase,heat,none
+3053,Turn up the heat,increase,heat,none
+3054,Turn the heat up,increase,heat,none
+3055,Turn down the temperature,decrease,heat,none
+3056,Turn the temperature down,decrease,heat,none
+3057,Turn down the heat,decrease,heat,none
+3058,Turn the heat down,decrease,heat,none
+3059,Turn off the music,deactivate,music,none
+3060,Put on the music,activate,music,none
+3061,Play the music,activate,music,none
+3062,Start the music,activate,music,none
+3063,Turn on the lamp,activate,lamp,none
+3064,Switch on the lamp,activate,lamp,none
+3065,Turn off the lamp,deactivate,lamp,none
+3066,Turn the lamp off,deactivate,lamp,none
+3067,Switch off the lamp,deactivate,lamp,none
+3068,Turn the lights on in the kitchen,activate,lights,kitchen
+3069,Switch on the lights in the kitchen,activate,lights,kitchen
+3070,Kitchen lights on,activate,lights,kitchen
+3071,Turn the bedroom lights on,activate,lights,bedroom
+3072,Switch on the lights in the bedroom,activate,lights,bedroom
+3073,Turn on the washroom lights,activate,lights,washroom
+3074,Turn the washroom lights on,activate,lights,washroom
+3075,Switch on the washroom lights,activate,lights,washroom
+3076,Lights on in the washroom,activate,lights,washroom
+3077,Turn on the bathroom lights,activate,lights,washroom
+3078,Turn the lights off in the kitchen,deactivate,lights,kitchen
+3079,Switch off the lights in the kitchen,deactivate,lights,kitchen
+3080,Switch the lights off in the kitchen,deactivate,lights,kitchen
+3081,Turn off the lights in the bedroom,deactivate,lights,bedroom
+3082,Turn the bedroom lights off,deactivate,lights,bedroom
+3083,Lights off in the washroom,deactivate,lights,washroom
+3084,Turn volume up,increase,volume,none
+3085,Turn sound up,increase,volume,none
+3086,Turn sound down,decrease,volume,none
+3087,Decrease the volume,decrease,volume,none
+3088,Decrease sound levels,decrease,volume,none
+3089,More heat,increase,heat,none
+3090,Turn up the temperature in the kitchen,increase,heat,kitchen
+3091,Bedroom heat up,increase,heat,bedroom
+3092,Turn the temperature up in the washroom,increase,heat,washroom
+3093,Increase the temperature in the bathroom,increase,heat,washroom
+3094,Increase the heating in the bathroom,increase,heat,washroom
+3095,Decrease the temperature,decrease,heat,none
+3096,Decrease the heating,decrease,heat,none
+3097,Kitchen heat down,decrease,heat,kitchen
+3098,Decrease the temperature in the kitchen,decrease,heat,kitchen
+3099,Decrease the temperature in the bedroom,decrease,heat,bedroom
+3100,Bring me some juice,bring,juice,none
+3101,Bring shoes,bring,shoes,none
+3102,Switch the language,change language,none,none
+3103,Set language to Chinese,change language,Chinese,none
+3104,Set language to Korean,change language,Korean,none
+3105,Turn on the lights,activate,lights,none
+3106,Turn off the lights,deactivate,lights,none
+3107,Change language,change language,none,none
+3108,Pause the music,deactivate,music,none
+3109,Resume,activate,music,none
+3110,Volume down,decrease,volume,none
+3111,Turn the lights on,activate,lights,none
+3112,Switch on the lights,activate,lights,none
+3113,Lights on,activate,lights,none
+3114,Switch off the lights,deactivate,lights,none
+3115,Turn the lights off,deactivate,lights,none
+3116,Lights off,deactivate,lights,none
+3117,Volume up,increase,volume,none

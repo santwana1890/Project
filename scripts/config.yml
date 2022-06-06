@@ -1,0 +1,5 @@
+dataset:
+    data_path: C:\Users\csant\OneDrive\Desktop\Project\data\
+model:
+    model_path: C:\Users\csant\OneDrive\Desktop\Project\model\
+    model_name: model.pkl

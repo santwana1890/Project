@@ -1,0 +1,5 @@
+dataset:
+    data_path: ../data/
+model:
+    model_path: ../model/
+    model_name: model.pkl
